@@ -11,7 +11,8 @@
 
 _A random quote_
 ___
-***The ability to simplify means to eliminate the unnecessary so that the
-necessary may speak.
--- Hans Hofmann***
+***Functional programming is like describing your problem to a
+mathematician.  Imperative programming is like giving instructions to
+an idiot.
+-- arcus, #scheme on Freenode***
 ___
