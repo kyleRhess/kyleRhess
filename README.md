@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***Functional programming is like describing your problem to a
-mathematician.  Imperative programming is like giving instructions to
-an idiot.
--- arcus, #scheme on Freenode***
+***Il y a très loin de la velléité à la volnt, de la volonté à la résolution, de la
+résolution au choix des moyens, du choix ds moyens à lapplication.
+-- Jean-François Paul de Gondi de Retz***
 ___
+Quotes from [erickedji](https://gist.github.com/erickedji/68802)
