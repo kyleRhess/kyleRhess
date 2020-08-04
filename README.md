@@ -11,16 +11,8 @@
 
 _A random quote_
 ___
-***What we choose to fight is so tiny!
-What fights us is so great!
-...
-When we win it's with small things,
-and the triumph itself makes us small.
-...
-Winning does not tempt that man.
-This is how he grows: by being defeated, decisively,
-by constantly greater beings. 
--- Rainer Maria Rilke, The Man Watching.***
+***Everything that can be invented has been invented.
+-- Charles H. Duell, Commissioner, U.S. Office of Patents, 1899***
 ___
-##### Updated on: 08/04/2020, 07:00:01
+##### Updated on: 08/04/2020, 08:00:01
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
