@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Everything that can be invented has been invented.
--- Charles H. Duell, Commissioner, U.S. Office of Patents, 1899***
+***As builders and creators finding the perfect solution should not be our
+main goal. We should find the perfect problem.
+-- Isaac (blog comment)***
 ___
-##### Updated on: 08/04/2020, 08:00:01
+##### Updated on: 08/04/2020, 09:00:01
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
