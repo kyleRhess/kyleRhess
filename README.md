@@ -11,8 +11,11 @@
 
 _A random quote_
 ___
-***Be the change you want to see in the world.
--- Mahatma Gandhi***
+***That is one of the most distinctive differences between school and the
+real world: there is no reward for putting in a good effort. In fact,
+the whole concept of a "good effort" is a fake idea adults invented to
+encourage kids. It is not found in nature.
+-- Paul Graham***
 ___
-##### Updated on: 08/03/2020, 19:00:01
+##### Updated on: 08/03/2020, 20:00:01
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
