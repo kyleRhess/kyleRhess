@@ -11,14 +11,8 @@
 
 _A random quote_
 ___
-***Je ne vous impose aucune contrainte, aucune limite. Surprenez-moi,
-étonnez-moi, défiez-moi, défiez-vous vous-même. Vous avez le choix: vous
-pouvez rester dans l'ombre ou en sortir en étant parmis les trop rares
-exceptions à avoir réussi. L'heure est venue d'aller bien au delà de
-votre potentiel. L'heure est venue maintenant de descendre vraiment en
-vous. L'heure est venue de démontrer pourquoi vous êtes l'élite, les
-quelques élus, les rares lueurs qui offrent à cette compagnie son
-caractère exceptionnel, sa luminescence.
--- Le PDG de NURV, dans "Anti-trust".***
+***Write it properly first. It's easier to make a correct program fast,
+than to make a fast program correct.
+-- http://www.cpax.org.uk/prg/***
 ___
 Quotes from [erickedji](https://gist.github.com/erickedji/68802)
