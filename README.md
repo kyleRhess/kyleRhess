@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Everything should be made as simple as possible, but no simpler.
--- Albert Einstein***
+***The problem is that Microsoft just has no taste. And I don't mean that
+in a small way, I mean that in a big way.
+-- Steve Jobs***
 ___
-##### Updated on: 08/03/2020, 22:00:01
+##### Updated on: 08/03/2020, 23:00:01
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
