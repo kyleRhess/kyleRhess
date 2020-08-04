@@ -11,11 +11,9 @@
 
 _A random quote_
 ___
-***That is one of the most distinctive differences between school and the
-real world: there is no reward for putting in a good effort. In fact,
-the whole concept of a "good effort" is a fake idea adults invented to
-encourage kids. It is not found in nature.
--- Paul Graham***
+***An interpreter raises the machine to the level of the user program; a
+compiler lowers the user program to the level of the machine language.
+-- SICP***
 ___
-##### Updated on: 08/03/2020, 20:00:01
+##### Updated on: 08/03/2020, 21:00:01
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
