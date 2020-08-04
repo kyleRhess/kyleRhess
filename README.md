@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***An interpreter raises the machine to the level of the user program; a
-compiler lowers the user program to the level of the machine language.
--- SICP***
+***Everything should be made as simple as possible, but no simpler.
+-- Albert Einstein***
 ___
-##### Updated on: 08/03/2020, 21:00:01
+##### Updated on: 08/03/2020, 22:00:01
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
