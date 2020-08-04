@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***As builders and creators finding the perfect solution should not be our
-main goal. We should find the perfect problem.
--- Isaac (blog comment)***
+***There is no reason for any individual to have a computer in his home.
+-- Ken Olson, President, Digital Equipment Corporation, 1977***
 ___
-##### Updated on: 08/04/2020, 09:00:01
+##### Updated on: 08/04/2020, 10:00:01
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
