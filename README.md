@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***The wonderful and frustrating thing about understanding yourself is that
-nobody can do it for you.
--- BetterExplained.com***
+***An expert is, according to my working definition "someone who doesn't
+need to look up answers to easy questions".
+-- Eric Lippert.***
 ___
-##### Updated on: 08/04/2020, 11:00:01
+##### Updated on: 08/04/2020, 17:06:04
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
