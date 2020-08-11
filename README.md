@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***Measuring programming progress by lines of code is like measuring
-aircraft building progress by weight.
--- Bill Gates***
+***I invented the term Object-Oriented, and I can tell you I did not have
+C++ in mind.
+-- Alan Kay***
 ___
-##### Updated on: 08/08/2020, 17:10:42
+##### Updated on: 08/10/2020, 17:03:18
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
