@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***I invented the term Object-Oriented, and I can tell you I did not have
-C++ in mind.
--- Alan Kay***
+***It is practically impossible to teach good programming to students that
+have had a prior exposure to BASIC: as potential programmers they are
+mentally mutilated beyond hope of regeneration.
+-- Edsger Dijkstra***
 ___
-##### Updated on: 08/10/2020, 17:03:18
+##### Updated on: 08/12/2020, 17:18:30
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
