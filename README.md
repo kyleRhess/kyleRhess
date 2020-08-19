@@ -11,10 +11,9 @@
 
 _A random quote_
 ___
-***It is practically impossible to teach good programming to students that
-have had a prior exposure to BASIC: as potential programmers they are
-mentally mutilated beyond hope of regeneration.
--- Edsger Dijkstra***
+***If it keeps up, man will atrophy all his limbs but the push-button
+finger.
+-- Frank Lloyd Wright***
 ___
-##### Updated on: 08/12/2020, 17:18:30
+##### Updated on: 08/18/2020, 17:01:05
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
