@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***If it keeps up, man will atrophy all his limbs but the push-button
-finger.
--- Frank Lloyd Wright***
+***Only two things are infinite, the universe and human stupidity. And I'm not so
+sure about the former.
+-- Albert Einstein***
 ___
-##### Updated on: 08/18/2020, 17:01:05
+##### Updated on: 08/22/2020, 17:06:00
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
