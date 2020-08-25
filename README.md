@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***Only two things are infinite, the universe and human stupidity. And I'm not so
-sure about the former.
--- Albert Einstein***
+***Seize any opportunity, or anything that looks like opportunity. They are
+rare, much rarer than you think...
+-- Nassim Nicholas Taleb, "The Black Swan".***
 ___
-##### Updated on: 08/22/2020, 17:06:00
+##### Updated on: 08/24/2020, 17:17:18
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
