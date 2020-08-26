@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with *Continuous Integration*
 - 💬 Ask me about ***IMU's***
 - 📫 How to reach me: [GitHub](https://github.com/kyleRhess)
-- ⚡ Fun fact: I built a [Cedar canoe...](https://imgur.com/gallery/HkfSO) 🛶
+- ⚡ Fun fact: I built a [Cedar canoe...](https://kylerhess.github.io/canoe.html) 🛶
 
 _A random quote_
 ___
