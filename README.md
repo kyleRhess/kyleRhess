@@ -11,11 +11,12 @@
 
 _A random quote_
 ___
-***A person won't become proficient at something until he or she has done
-it many times. In other words., if you want someone to be really good at
-building a software system, he or she will have to have built 10 or more
-systems of that type.
--- Philip Greenspun***
+***A hacker on a roll may be able to produce–in a period of a few
+months–something that a small development group (say, 7-8 people) would
+have a hard time getting together over a year.  IBM used to report that
+certain programmers might be as much as 100 times as productive as other
+workers, or more.
+-- Peter Seebach***
 ___
-##### Updated on: 08/26/2020, 17:16:03
+##### Updated on: 08/28/2020, 17:14:46
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
