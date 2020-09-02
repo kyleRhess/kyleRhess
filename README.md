@@ -11,12 +11,12 @@
 
 _A random quote_
 ___
-***A hacker on a roll may be able to produce–in a period of a few
-months–something that a small development group (say, 7-8 people) would
-have a hard time getting together over a year.  IBM used to report that
-certain programmers might be as much as 100 times as productive as other
-workers, or more.
--- Peter Seebach***
+***Hence my urgent advice to all of you to reject the morals of the
+bestseller society and to find, to start with, your reward in your own
+fun. This is quite feasible, for the challenge of simplification is so
+fascinating that, if we do our job properly, we shall have the greatest
+fun in the world.
+-- E. W. Dijkstra, On the nature of computing science.***
 ___
-##### Updated on: 08/28/2020, 17:14:46
+##### Updated on: 09/01/2020, 17:24:38
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
