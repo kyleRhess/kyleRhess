@@ -11,12 +11,8 @@
 
 _A random quote_
 ___
-***Hence my urgent advice to all of you to reject the morals of the
-bestseller society and to find, to start with, your reward in your own
-fun. This is quite feasible, for the challenge of simplification is so
-fascinating that, if we do our job properly, we shall have the greatest
-fun in the world.
--- E. W. Dijkstra, On the nature of computing science.***
+***The greatest of all weaknesses is the fear of appearing weak.
+-- J. B. Bossuet, Politics from Holy Writ, 1709***
 ___
-##### Updated on: 09/01/2020, 17:24:38
+##### Updated on: 09/03/2020, 17:05:25
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
