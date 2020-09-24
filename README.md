@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***The greatest of all weaknesses is the fear of appearing weak.
--- J. B. Bossuet, Politics from Holy Writ, 1709***
+***Everything that can be invented has been invented.
+-- Charles H. Duell, Commissioner, U.S. Office of Patents, 1899***
 ___
-##### Updated on: 09/03/2020, 17:05:25
+##### Updated on: 09/23/2020, 17:12:30
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
