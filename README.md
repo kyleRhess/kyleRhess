@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***Ce n’est que par les beaux sentiments qu’on parvient à la fortune !
--- Charles Baudelaire, Conseils aux jeunes littérateurs.***
+***There really is no learning without doing.
+-- Roger Schank, Engines for Education***
 ___
-##### Updated on: 09/25/2020, 17:15:33
+##### Updated on: 10/03/2020, 17:05:34
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
