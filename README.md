@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***There really is no learning without doing.
--- Roger Schank, Engines for Education***
+***Normality is the route to nowhere.
+-- Ridderstrale & Nordstorm, Funky Business***
 ___
-##### Updated on: 10/03/2020, 17:05:34
+##### Updated on: 10/05/2020, 17:09:38
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
