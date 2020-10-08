@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Normality is the route to nowhere.
--- Ridderstrale & Nordstorm, Funky Business***
+***The problem is that Microsoft just has no taste. And I don't mean that
+in a small way, I mean that in a big way.
+-- Steve Jobs***
 ___
-##### Updated on: 10/05/2020, 17:09:38
+##### Updated on: 10/07/2020, 17:01:12
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
