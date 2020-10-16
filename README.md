@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***Perpetual optimism is a force multiplier.
--- Colin Powell***
+***An investment in knowledge always pays the best interest.
+-- Benjamin Franklin***
 ___
-##### Updated on: 10/13/2020, 17:13:11
+##### Updated on: 10/15/2020, 17:08:02
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
