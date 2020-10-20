@@ -11,8 +11,7 @@
 
 _A random quote_
 ___
-***An investment in knowledge always pays the best interest.
--- Benjamin Franklin***
+***A society that puts equality -- in the sense of equality of outcome ***
 ___
-##### Updated on: 10/15/2020, 17:08:02
+##### Updated on: 10/19/2020, 17:15:30
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
