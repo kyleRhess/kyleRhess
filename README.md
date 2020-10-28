@@ -11,7 +11,10 @@
 
 _A random quote_
 ___
-***A society that puts equality -- in the sense of equality of outcome ***
+***Keep away from people who try to belittle your ambitions. Small people
+always do that, but the really great make you feel that you, too, can
+become great.
+-- Mark Twain***
 ___
-##### Updated on: 10/19/2020, 17:15:30
+##### Updated on: 10/27/2020, 17:07:19
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
