@@ -11,10 +11,9 @@
 
 _A random quote_
 ___
-***Keep away from people who try to belittle your ambitions. Small people
-always do that, but the really great make you feel that you, too, can
-become great.
--- Mark Twain***
+***J'ai toujours préféré la folie des passions à la sagesse de
+l'indifférence.
+-- Anatole France***
 ___
-##### Updated on: 10/27/2020, 17:07:19
+##### Updated on: 10/31/2020, 17:16:18
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
