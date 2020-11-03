@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***J'ai toujours préféré la folie des passions à la sagesse de
-l'indifférence.
--- Anatole France***
+***Good programmers use their brains, but good guidelines save us having to
+think out every case.
+-- Francis Glassborow***
 ___
-##### Updated on: 10/31/2020, 17:16:18
+##### Updated on: 11/02/2020, 16:23:14
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
