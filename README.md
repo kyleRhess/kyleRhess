@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***Good programmers use their brains, but good guidelines save us having to
-think out every case.
--- Francis Glassborow***
+***In God I trust; I will not be afraid. What can mortal man do to me?
+-- David (Psalm 56:4)***
 ___
-##### Updated on: 11/02/2020, 16:23:14
+##### Updated on: 11/10/2020, 16:08:24
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
