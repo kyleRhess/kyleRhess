@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***In God I trust; I will not be afraid. What can mortal man do to me?
--- David (Psalm 56:4)***
+***The greatest of all weaknesses is the fear of appearing weak.
+-- J. B. Bossuet, Politics from Holy Writ, 1709***
 ___
-##### Updated on: 11/10/2020, 16:08:24
+##### Updated on: 11/12/2020, 16:26:21
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
