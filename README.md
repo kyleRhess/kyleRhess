@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***The greatest of all weaknesses is the fear of appearing weak.
--- J. B. Bossuet, Politics from Holy Writ, 1709***
+***You can have premature generalization as well as premature optimization.
+-- Bjarne Stroustrup***
 ___
-##### Updated on: 11/12/2020, 16:26:21
+##### Updated on: 11/18/2020, 16:11:50
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
