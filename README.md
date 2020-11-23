@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***You can have premature generalization as well as premature optimization.
--- Bjarne Stroustrup***
+***Remember that you are humans in the first place and only after that
+programmers.
+-- Alexandru Vancea***
 ___
-##### Updated on: 11/18/2020, 16:11:50
+##### Updated on: 11/22/2020, 16:05:52
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
