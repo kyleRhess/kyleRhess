@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***Remember that you are humans in the first place and only after that
-programmers.
--- Alexandru Vancea***
+***Training research shows that if you get speed now you can get quality
+later. But if you don't get speed you will never get quality in the long
+run.
+-- Philip Greenspun***
 ___
-##### Updated on: 11/22/2020, 16:05:52
+##### Updated on: 11/24/2020, 16:26:44
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
