@@ -11,10 +11,8 @@
 
 _A random quote_
 ___
-***Training research shows that if you get speed now you can get quality
-later. But if you don't get speed you will never get quality in the long
-run.
--- Philip Greenspun***
+***Only bad designers blame their failings on the users.
+-- unknown***
 ___
-##### Updated on: 11/24/2020, 16:26:44
+##### Updated on: 11/28/2020, 16:21:04
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
