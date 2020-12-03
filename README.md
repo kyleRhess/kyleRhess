@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Only bad designers blame their failings on the users.
--- unknown***
+***I have never met a man so ignorant that I couldn't learn something from
+him.
+-- Galileo Galilei***
 ___
-##### Updated on: 11/28/2020, 16:21:04
+##### Updated on: 12/02/2020, 16:23:48
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
