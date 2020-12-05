@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***I have never met a man so ignorant that I couldn't learn something from
-him.
--- Galileo Galilei***
+***Everybody makes their own fun. If you don't make it yourself, it ain't
+fun -- it's entertainment.***
 ___
-##### Updated on: 12/02/2020, 16:23:48
+##### Updated on: 12/04/2020, 16:28:51
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
