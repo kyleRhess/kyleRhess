@@ -11,8 +11,11 @@
 
 _A random quote_
 ___
-***Everybody makes their own fun. If you don't make it yourself, it ain't
-fun -- it's entertainment.***
+***Humans differ from animals to the degree that they are not merely an end
+result of their conditioning, but are able to reflect on their
+experiences and strategies, and apply insight to make changes in the way
+they live to modify the outcome.
+-- SlideTrombone (comment on "Programming can ruin your life")***
 ___
-##### Updated on: 12/04/2020, 16:28:51
+##### Updated on: 12/06/2020, 16:27:00
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
