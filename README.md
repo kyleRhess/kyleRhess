@@ -11,11 +11,13 @@
 
 _A random quote_
 ___
-***Humans differ from animals to the degree that they are not merely an end
-result of their conditioning, but are able to reflect on their
-experiences and strategies, and apply insight to make changes in the way
-they live to modify the outcome.
--- SlideTrombone (comment on "Programming can ruin your life")***
+***I think that a lot of programmers are ignoring an important point when
+people talk about reducing code repetition on large projects.
+Part of the idea is that large projects are intrinsically *wrong*. That
+you should be looking at making a number of smaller projects that are
+composable, even if you never end up reusing one of those smaller
+projects elsewhere.
+-- Dan Nugent***
 ___
-##### Updated on: 12/06/2020, 16:27:00
+##### Updated on: 12/08/2020, 16:06:25
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
