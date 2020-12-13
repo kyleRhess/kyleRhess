@@ -11,13 +11,8 @@
 
 _A random quote_
 ___
-***I think that a lot of programmers are ignoring an important point when
-people talk about reducing code repetition on large projects.
-Part of the idea is that large projects are intrinsically *wrong*. That
-you should be looking at making a number of smaller projects that are
-composable, even if you never end up reusing one of those smaller
-projects elsewhere.
--- Dan Nugent***
+***The function of wisdom is to discriminate between good and evil.
+-- Cicero***
 ___
-##### Updated on: 12/08/2020, 16:06:25
+##### Updated on: 12/12/2020, 16:16:59
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
