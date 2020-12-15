@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***The function of wisdom is to discriminate between good and evil.
--- Cicero***
+***Everything that can be invented has been invented.
+-- Charles H. Duell, Commissioner, U.S. Office of Patents, 1899***
 ___
-##### Updated on: 12/12/2020, 16:16:59
+##### Updated on: 12/14/2020, 16:11:21
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
