@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Everything that can be invented has been invented.
--- Charles H. Duell, Commissioner, U.S. Office of Patents, 1899***
+***There is one meaning [for static in C]: a global variable that is
+invisible outside the current scope, be it a function or a file.
+-- Paolo Bonzini***
 ___
-##### Updated on: 12/14/2020, 16:11:21
+##### Updated on: 12/16/2020, 16:04:31
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
