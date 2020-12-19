@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***There is one meaning [for static in C]: a global variable that is
-invisible outside the current scope, be it a function or a file.
--- Paolo Bonzini***
+***Good artists copy. Great artists steal.
+-- Pablo Picasso***
 ___
-##### Updated on: 12/16/2020, 16:04:31
+##### Updated on: 12/18/2020, 16:06:11
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
