@@ -11,9 +11,11 @@
 
 _A random quote_
 ___
-***We will never become a truly paper-less society until the Palm Pilot
-folks come out with WipeMe 1.0.
--- Andy Pierson***
+***The best programmers are not marginally better than merely good ones.
+They are an order-of-magnitude better, measured by whatever standard:
+conceptual creativity, speed, ingenuity of design, or problem-solving
+ability.
+-- Randall E. Stross***
 ___
-##### Updated on: 12/26/2020, 16:03:20
+##### Updated on: 12/28/2020, 16:26:50
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
