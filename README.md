@@ -11,11 +11,9 @@
 
 _A random quote_
 ___
-***The best programmers are not marginally better than merely good ones.
-They are an order-of-magnitude better, measured by whatever standard:
-conceptual creativity, speed, ingenuity of design, or problem-solving
-ability.
--- Randall E. Stross***
+***The only way of discovering the limits of the possible is to venture a
+little way past them into the impossible.
+-- Arthur C. Clarke***
 ___
-##### Updated on: 12/28/2020, 16:26:50
+##### Updated on: 01/01/2021, 16:17:50
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
