@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***The only way of discovering the limits of the possible is to venture a
-little way past them into the impossible.
--- Arthur C. Clarke***
+***The president was visiting NASA headquarters and stopped to talk to a
+man who was holding a mop. “And what do you do?” he asked. The man, a
+janitor, replied, “I’m helping to put a man on the moon, sir.”
+-- The little book of leadership***
 ___
-##### Updated on: 01/01/2021, 16:17:50
+##### Updated on: 01/09/2021, 16:14:34
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
