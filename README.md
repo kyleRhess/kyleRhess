@@ -11,10 +11,9 @@
 
 _A random quote_
 ___
-***The president was visiting NASA headquarters and stopped to talk to a
-man who was holding a mop. “And what do you do?” he asked. The man, a
-janitor, replied, “I’m helping to put a man on the moon, sir.”
--- The little book of leadership***
+***The ability to simplify means to eliminate the unnecessary so that the
+necessary may speak.
+-- Hans Hofmann***
 ___
-##### Updated on: 01/09/2021, 16:14:34
+##### Updated on: 01/11/2021, 16:10:44
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
