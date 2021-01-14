@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***The ability to simplify means to eliminate the unnecessary so that the
-necessary may speak.
--- Hans Hofmann***
+***Remember that you are humans in the first place and only after that
+programmers.
+-- Alexandru Vancea***
 ___
-##### Updated on: 01/11/2021, 16:10:44
+##### Updated on: 01/13/2021, 16:03:28
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
