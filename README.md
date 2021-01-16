@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***Remember that you are humans in the first place and only after that
-programmers.
--- Alexandru Vancea***
+***Programming is the art of figuring out what you want so precisely that
+even a machine can do it.
+-- Some guy who isn't famous***
 ___
-##### Updated on: 01/13/2021, 16:03:28
+##### Updated on: 01/15/2021, 16:11:04
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
