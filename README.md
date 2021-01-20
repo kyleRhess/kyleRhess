@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***Programming is the art of figuring out what you want so precisely that
-even a machine can do it.
--- Some guy who isn't famous***
+***If it looks like a duck, walks like a duck, and quacks like a duck, it's
+a duck.
+-- Official definition of "duck typing"***
 ___
-##### Updated on: 01/15/2021, 16:11:04
+##### Updated on: 01/19/2021, 16:00:16
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
