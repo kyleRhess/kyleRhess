@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***If it looks like a duck, walks like a duck, and quacks like a duck, it's
-a duck.
--- Official definition of "duck typing"***
+***We remember what we learn when we care about performing better and when
+we believe that what we have been asked to do is representative of
+reality.
+-- Roger Schank, Engines for Education***
 ___
-##### Updated on: 01/19/2021, 16:00:16
+##### Updated on: 01/21/2021, 16:23:52
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
