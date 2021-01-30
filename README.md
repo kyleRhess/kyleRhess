@@ -11,10 +11,9 @@
 
 _A random quote_
 ___
-***We remember what we learn when we care about performing better and when
-we believe that what we have been asked to do is representative of
-reality.
--- Roger Schank, Engines for Education***
+***State is the root of all evil. In particular functions with side effects
+should be avoided.
+-- OO Sucks (bluetail.com)***
 ___
-##### Updated on: 01/21/2021, 16:23:52
+##### Updated on: 01/29/2021, 16:20:59
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
