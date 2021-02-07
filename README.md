@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***State is the root of all evil. In particular functions with side effects
-should be avoided.
--- OO Sucks (bluetail.com)***
+***In general, we can think of data as defined by some collection of
+selectors and constructors, together with specified conditions that
+these procedures must fulfill in order to be a valid representation.
+-- SICP, What is meant by data?***
 ___
-##### Updated on: 01/29/2021, 16:20:59
+##### Updated on: 02/06/2021, 16:24:34
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
