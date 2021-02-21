@@ -11,10 +11,10 @@
 
 _A random quote_
 ___
-***In general, we can think of data as defined by some collection of
-selectors and constructors, together with specified conditions that
-these procedures must fulfill in order to be a valid representation.
--- SICP, What is meant by data?***
+***No matter how much you plan you’re likely to get half wrong anyway. So
+don’t do the ‘paralysis through analysis’ thing. That only slows
+progress and saps morale.
+-- 37 Signal, Getting real***
 ___
-##### Updated on: 02/06/2021, 16:24:34
+##### Updated on: 02/20/2021, 16:17:08
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
