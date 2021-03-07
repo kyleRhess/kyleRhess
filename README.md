@@ -11,10 +11,9 @@
 
 _A random quote_
 ___
-***No matter how much you plan you’re likely to get half wrong anyway. So
-don’t do the ‘paralysis through analysis’ thing. That only slows
-progress and saps morale.
--- 37 Signal, Getting real***
+***Many of life's failures are people who did not realize how close they
+were to success when they gave up.
+-- Thomas Edison***
 ___
-##### Updated on: 02/20/2021, 16:17:08
+##### Updated on: 03/06/2021, 16:08:25
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
