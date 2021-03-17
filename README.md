@@ -11,9 +11,12 @@
 
 _A random quote_
 ___
-***Many of life's failures are people who did not realize how close they
-were to success when they gave up.
--- Thomas Edison***
+***It’s a problem if the design doesn’t let you add features at a later
+date. If you have to redo a program, the hours you spend can cause you
+to lose your competitive edge. A flexible program demonstrates the
+difference between a good designer and someone who is just getting a
+piece of code out.
+-- Gary Kildall (inventor of CP/M, one of the first OS for the micro).***
 ___
-##### Updated on: 03/06/2021, 16:08:25
+##### Updated on: 03/16/2021, 17:13:24
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
