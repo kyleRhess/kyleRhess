@@ -11,12 +11,10 @@
 
 _A random quote_
 ___
-***It’s a problem if the design doesn’t let you add features at a later
-date. If you have to redo a program, the hours you spend can cause you
-to lose your competitive edge. A flexible program demonstrates the
-difference between a good designer and someone who is just getting a
-piece of code out.
--- Gary Kildall (inventor of CP/M, one of the first OS for the micro).***
+***Je n'ai fait celle-ci plus longue que parce que je n'ai pas eu le loisir
+de la faire plus courte. (I have made this letter so long only because I
+did not have the leisure to make it shorter.)
+-- Blaise Pascal (Lettres Provinciales)***
 ___
-##### Updated on: 03/16/2021, 17:13:24
+##### Updated on: 03/20/2021, 17:24:03
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
