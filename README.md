@@ -11,10 +11,8 @@
 
 _A random quote_
 ___
-***Je n'ai fait celle-ci plus longue que parce que je n'ai pas eu le loisir
-de la faire plus courte. (I have made this letter so long only because I
-did not have the leisure to make it shorter.)
--- Blaise Pascal (Lettres Provinciales)***
+***Je crois au flooding.
+-- Karim BAINA (en parlant du dailogue avec les administrations)***
 ___
-##### Updated on: 03/20/2021, 17:24:03
+##### Updated on: 03/22/2021, 17:17:57
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
