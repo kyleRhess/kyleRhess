@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Je crois au flooding.
--- Karim BAINA (en parlant du dailogue avec les administrations)***
+***Always code as if the guy who ends up maintaining your code will be a
+violent psychopath who knows where you live.
+-- Martin Golding***
 ___
-##### Updated on: 03/22/2021, 17:17:57
+##### Updated on: 03/24/2021, 17:28:27
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
