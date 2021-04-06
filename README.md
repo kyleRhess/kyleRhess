@@ -11,9 +11,11 @@
 
 _A random quote_
 ___
-***Always code as if the guy who ends up maintaining your code will be a
-violent psychopath who knows where you live.
--- Martin Golding***
+***Abstraction is a form of data compression: absolutely necessary, because
+human short-term memory is so small, but the critically important aspect
+of abstraction is the algorithm that gets you from the name back to the
+"uncompressed" details.
+-- Bruce Wilder (blog post comment)***
 ___
-##### Updated on: 03/24/2021, 17:28:27
+##### Updated on: 04/05/2021, 17:21:01
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
