@@ -11,11 +11,10 @@
 
 _A random quote_
 ___
-***Abstraction is a form of data compression: absolutely necessary, because
-human short-term memory is so small, but the critically important aspect
-of abstraction is the algorithm that gets you from the name back to the
-"uncompressed" details.
--- Bruce Wilder (blog post comment)***
+***It was Edison who said ‘1% inspiration, 99% perspiration’. That may have
+been true a hundred years ago. These days it's ‘0.01% inspiration,
+99.99% perspiration’, and the inspiration is the easy part.
+-- Linux Torvalds***
 ___
-##### Updated on: 04/05/2021, 17:21:01
+##### Updated on: 04/07/2021, 22:06:57
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
