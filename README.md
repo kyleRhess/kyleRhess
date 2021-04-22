@@ -11,10 +11,8 @@
 
 _A random quote_
 ___
-***It was Edison who said ‘1% inspiration, 99% perspiration’. That may have
-been true a hundred years ago. These days it's ‘0.01% inspiration,
-99.99% perspiration’, and the inspiration is the easy part.
--- Linux Torvalds***
+***Good artists copy. Great artists steal.
+-- Pablo Picasso***
 ___
-##### Updated on: 04/07/2021, 22:06:57
+##### Updated on: 04/21/2021, 17:15:53
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
