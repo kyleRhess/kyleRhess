@@ -11,8 +11,10 @@
 
 _A random quote_
 ___
-***Good artists copy. Great artists steal.
--- Pablo Picasso***
+***La tactique, c'est ce que vous faites quand il y a quelque chose à
+faire; la stratégie, c'est ce que vous faites quand il n'y a rien à
+faire.
+-- Xavier Tartacover***
 ___
-##### Updated on: 04/21/2021, 17:15:53
+##### Updated on: 05/03/2021, 17:09:57
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
