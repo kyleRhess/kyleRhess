@@ -11,10 +11,9 @@
 
 _A random quote_
 ___
-***La tactique, c'est ce que vous faites quand il y a quelque chose à
-faire; la stratégie, c'est ce que vous faites quand il n'y a rien à
-faire.
--- Xavier Tartacover***
+***We are the sum of our behaviours; excellence therefore is not an act but
+a habit.
+-- Aristotle.***
 ___
-##### Updated on: 05/03/2021, 17:09:57
+##### Updated on: 05/05/2021, 17:05:13
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
