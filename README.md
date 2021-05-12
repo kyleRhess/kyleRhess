@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***We are the sum of our behaviours; excellence therefore is not an act but
-a habit.
--- Aristotle.***
+***A language that doesn't affect the way you think about programming, is
+not worth knowing.
+-- Alan Perlis***
 ___
-##### Updated on: 05/05/2021, 17:05:13
+##### Updated on: 05/11/2021, 17:24:14
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
