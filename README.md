@@ -11,9 +11,14 @@
 
 _A random quote_
 ___
-***A language that doesn't affect the way you think about programming, is
-not worth knowing.
--- Alan Perlis***
+***Sometimes a man with too broad a perspective reveals himself as having
+no real perspective at all. A man who tries too hard to see every side
+may be a man who is trying to avoid choosing any side. A man who tries
+too hard to seek a deeper truth may be trying to hide from the truth he
+already knows.  That is not a sign of intellectual sophistication and
+"great thinking". It is a demonstration of moral degeneracy and
+cowardice.
+-- Steven Den Beste***
 ___
-##### Updated on: 05/11/2021, 17:24:14
+##### Updated on: 05/17/2021, 17:12:25
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
