@@ -11,8 +11,10 @@
 
 _A random quote_
 ___
-***:nunmap can also be used outside of a monastery.
--- Vim user manual***
+***The president was visiting NASA headquarters and stopped to talk to a
+man who was holding a mop. “And what do you do?” he asked. The man, a
+janitor, replied, “I’m helping to put a man on the moon, sir.”
+-- The little book of leadership***
 ___
-##### Updated on: 05/19/2021, 17:21:04
+##### Updated on: 06/12/2021, 17:14:26
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
