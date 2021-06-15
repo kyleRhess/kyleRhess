@@ -11,10 +11,9 @@
 
 _A random quote_
 ___
-***The president was visiting NASA headquarters and stopped to talk to a
-man who was holding a mop. “And what do you do?” he asked. The man, a
-janitor, replied, “I’m helping to put a man on the moon, sir.”
--- The little book of leadership***
+***Natives who beat drums to drive off evil spirits are objects of scorn to
+smart Americans who blow horns to break up traffic jams.
+-- Mary Ellen Kelly***
 ___
-##### Updated on: 06/12/2021, 17:14:26
+##### Updated on: 06/14/2021, 17:17:48
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
