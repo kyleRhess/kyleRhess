@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***Natives who beat drums to drive off evil spirits are objects of scorn to
-smart Americans who blow horns to break up traffic jams.
--- Mary Ellen Kelly***
+***A great lathe operator commands several times the wage of an average
+lathe operator, but a great writer of software code is worth 10,000
+times the price of an average software writer.
+-- Bill Gates***
 ___
-##### Updated on: 06/14/2021, 17:17:48
+##### Updated on: 06/22/2021, 17:10:36
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
