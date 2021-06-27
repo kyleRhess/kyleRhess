@@ -11,10 +11,10 @@
 
 _A random quote_
 ___
-***A great lathe operator commands several times the wage of an average
-lathe operator, but a great writer of software code is worth 10,000
-times the price of an average software writer.
--- Bill Gates***
+***Pay attention to opportunity cost at all times. Doing one thing means
+not doing other things. This is a form of risk that is very easy to
+ignore, to your detriment.
+-- Marc Andreessen (http://blog.pmarca.com/)***
 ___
-##### Updated on: 06/22/2021, 17:10:36
+##### Updated on: 06/26/2021, 17:02:23
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
