@@ -11,10 +11,8 @@
 
 _A random quote_
 ___
-***Pay attention to opportunity cost at all times. Doing one thing means
-not doing other things. This is a form of risk that is very easy to
-ignore, to your detriment.
--- Marc Andreessen (http://blog.pmarca.com/)***
+***The good thing about reinventing the wheel is that you get a round one.
+-- Douglas Crockford (Author of JSON and JsLint)***
 ___
-##### Updated on: 06/26/2021, 17:02:23
+##### Updated on: 06/28/2021, 17:09:38
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
