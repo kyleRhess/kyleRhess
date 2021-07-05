@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***Whatever is worth doing at all, is worth doing well.
--- Earl of Chesterfield***
+***Remember, always be yourself ... unless you suck!
+-- Joss Whedon***
 ___
-##### Updated on: 06/30/2021, 17:18:55
+##### Updated on: 07/04/2021, 17:24:31
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
