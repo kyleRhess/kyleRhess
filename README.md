@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Remember, always be yourself ... unless you suck!
--- Joss Whedon***
+***State is the root of all evil. In particular functions with side effects
+should be avoided.
+-- OO Sucks (bluetail.com)***
 ___
-##### Updated on: 07/04/2021, 17:24:31
+##### Updated on: 07/06/2021, 17:25:05
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
