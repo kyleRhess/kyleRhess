@@ -11,11 +11,9 @@
 
 _A random quote_
 ___
-***[Innovation] comes from saying no to 1,000 things to make sure we don’t
-get on the wrong track or try to do too much. We’re always thinking
-about new markets we could enter, but it’s only by saying no that you
-can concentrate on the things that are really important.
--- Steve Jobs***
+***The human brain starts working the moment you are born and never stops
+until you stand up to speak in public.
+-- Anonymous***
 ___
-##### Updated on: 07/06/2021, 17:26:25
+##### Updated on: 07/08/2021, 17:09:11
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
