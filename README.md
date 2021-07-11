@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***The human brain starts working the moment you are born and never stops
-until you stand up to speak in public.
--- Anonymous***
+***Making All Software Into Tools Reduces Risk.
+-- smoothspan.com***
 ___
-##### Updated on: 07/08/2021, 17:09:11
+##### Updated on: 07/10/2021, 17:02:13
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
