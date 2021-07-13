@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***Making All Software Into Tools Reduces Risk.
--- smoothspan.com***
+***Only make new mistakes.
+-- Phil Dourado***
 ___
-##### Updated on: 07/10/2021, 17:02:13
+##### Updated on: 07/12/2021, 17:04:10
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
