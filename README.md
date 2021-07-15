@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Only make new mistakes.
--- Phil Dourado***
+***La connaissance d'un défaut ne l'enlève pas, elle nous torture jusqu'à sa
+correction.
+-- Daniel Lovewin (Guillaume Kpotufe)***
 ___
-##### Updated on: 07/12/2021, 17:04:10
+##### Updated on: 07/14/2021, 17:21:13
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
