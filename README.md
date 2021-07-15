@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***La connaissance d'un défaut ne l'enlève pas, elle nous torture jusqu'à sa
-correction.
--- Daniel Lovewin (Guillaume Kpotufe)***
+***Java and C++ make you think that the new ideas are like the old ones.
+Java is the most distressing thing to hit computing since MS-DOS.
+-- Alan Kay***
 ___
-##### Updated on: 07/14/2021, 17:21:13
+##### Updated on: 07/14/2021, 17:22:41
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
