@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Just like carpentry, measure twice cut once.
--- Super-sizing YouTube with Python (Mike Solomon, mike@youtube.com)***
+***As builders and creators finding the perfect solution should not be our
+main goal. We should find the perfect problem.
+-- Isaac (blog comment)***
 ___
-##### Updated on: 07/20/2021, 17:29:32
+##### Updated on: 07/20/2021, 17:31:05
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
