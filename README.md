@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***Java and C++ make you think that the new ideas are like the old ones.
-Java is the most distressing thing to hit computing since MS-DOS.
--- Alan Kay***
+***Just like carpentry, measure twice cut once.
+-- Super-sizing YouTube with Python (Mike Solomon, mike@youtube.com)***
 ___
-##### Updated on: 07/14/2021, 17:22:41
+##### Updated on: 07/20/2021, 17:29:32
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
