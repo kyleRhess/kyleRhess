@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***Show, don't tell.
--- unknown***
+***All creativity is an extended form of a joke.
+-- Alan Kay***
 ___
-##### Updated on: 07/26/2021, 20:01:49
+##### Updated on: 07/26/2021, 20:02:14
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
