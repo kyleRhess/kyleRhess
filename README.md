@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***Before enlightenment, chop wood and carry water.
-After enlightenment, chop wood and carry water.
--- Ancient Eastern adage***
+***Some may say Ruby is a bad rip-off of Lisp or Smalltalk, and I admit
+that. But it is nicer to ordinary people.
+-- Matz, LL2***
 ___
-##### Updated on: 07/26/2021, 19:52:59
+##### Updated on: 07/26/2021, 19:54:05
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
