@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Perpetual optimism is a force multiplier.
--- Colin Powell***
+***Functional programming is to algorithms as the ubiquitous little black
+dress is to women's fashion.
+-- Mark Tarver (of "The bipolar Lisp programmer" fame)***
 ___
-##### Updated on: 07/26/2021, 20:02:40
+##### Updated on: 07/26/2021, 20:02:51
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
