@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***Functional programming is to algorithms as the ubiquitous little black
-dress is to women's fashion.
--- Mark Tarver (of "The bipolar Lisp programmer" fame)***
+***Functional programming is like describing your problem to a
+mathematician.  Imperative programming is like giving instructions to
+an idiot.
+-- arcus, #scheme on Freenode***
 ___
-##### Updated on: 07/26/2021, 20:02:51
+##### Updated on: 07/26/2021, 20:04:29
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
