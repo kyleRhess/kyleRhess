@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***The only thing a man should ever be 100% convinced of is his own
-ignorance.
--- DJ MacLean***
+***Before enlightenment, chop wood and carry water.
+After enlightenment, chop wood and carry water.
+-- Ancient Eastern adage***
 ___
-##### Updated on: 07/26/2021, 19:52:15
+##### Updated on: 07/26/2021, 19:52:59
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
