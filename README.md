@@ -11,10 +11,9 @@
 
 _A random quote_
 ___
-***Functional programming is like describing your problem to a
-mathematician.  Imperative programming is like giving instructions to
-an idiot.
--- arcus, #scheme on Freenode***
+***Beware of bugs in the above code; I have only proved it correct, not
+tried it.
+-- Donald Knuth***
 ___
-##### Updated on: 07/26/2021, 20:04:29
+##### Updated on: 07/26/2021, 20:06:02
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
