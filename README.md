@@ -11,10 +11,9 @@
 
 _A random quote_
 ___
-***Ecoute, crois en ton projet... Implique toi à fond... Trouve des aspects
-innovants pour te distinguer des autres. Tu verras que tu te feras
-remarquer très facilement...
--- Khaled Tangao***
+***The only thing a man should ever be 100% convinced of is his own
+ignorance.
+-- DJ MacLean***
 ___
-##### Updated on: 07/26/2021, 19:47:32
+##### Updated on: 07/26/2021, 19:52:15
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
