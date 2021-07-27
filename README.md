@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***All creativity is an extended form of a joke.
--- Alan Kay***
+***Perpetual optimism is a force multiplier.
+-- Colin Powell***
 ___
-##### Updated on: 07/26/2021, 20:02:14
+##### Updated on: 07/26/2021, 20:02:40
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
