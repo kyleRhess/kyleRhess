@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***Argue with idiots, and you become an idiot.
-If you compete with slaves you become a slave.
--- Paul Graham and Norbert Weiner, respectively***
+***Ecoute, crois en ton projet... Implique toi à fond... Trouve des aspects
+innovants pour te distinguer des autres. Tu verras que tu te feras
+remarquer très facilement...
+-- Khaled Tangao***
 ___
-##### Updated on: 07/26/2021, 17:11:30
+##### Updated on: 07/26/2021, 19:47:32
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
