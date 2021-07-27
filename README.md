@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***Some may say Ruby is a bad rip-off of Lisp or Smalltalk, and I admit
-that. But it is nicer to ordinary people.
--- Matz, LL2***
+***Show, don't tell.
+-- unknown***
 ___
-##### Updated on: 07/26/2021, 19:54:05
+##### Updated on: 07/26/2021, 20:01:49
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
