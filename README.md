@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***Beware of bugs in the above code; I have only proved it correct, not
-tried it.
--- Donald Knuth***
+***I had to learn how to teach less, so that more could be learned.
+-- Tim Gallwey, The inner game of work***
 ___
-##### Updated on: 07/26/2021, 20:06:02
+##### Updated on: 07/26/2021, 20:21:10
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
