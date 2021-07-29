@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***I had to learn how to teach less, so that more could be learned.
--- Tim Gallwey, The inner game of work***
+***If you tell the truth, you don't have to remember anything.
+-- Mark Twain***
 ___
-##### Updated on: 07/26/2021, 20:21:10
+##### Updated on: 07/28/2021, 17:24:33
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
