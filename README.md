@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***If you tell the truth, you don't have to remember anything.
--- Mark Twain***
+***Revolutions come from standing on the shoulders of giants and facing in
+a better direction.
+-- Alan Kay***
 ___
-##### Updated on: 07/28/2021, 17:24:33
+##### Updated on: 08/05/2021, 17:08:25
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
