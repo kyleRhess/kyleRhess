@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***Revolutions come from standing on the shoulders of giants and facing in
-a better direction.
--- Alan Kay***
+***Act from reason, and failure makes you rethink and study harder.
+Act from faith, and failure makes you blame someone and push harder.
+--  Erik Naggum***
 ___
-##### Updated on: 08/05/2021, 17:08:25
+##### Updated on: 08/07/2021, 17:18:12
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
