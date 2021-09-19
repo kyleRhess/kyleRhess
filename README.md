@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***Act from reason, and failure makes you rethink and study harder.
-Act from faith, and failure makes you blame someone and push harder.
---  Erik Naggum***
+***The opposite of love is not hate, it's indifference.
+-- Elie Wiesel***
 ___
-##### Updated on: 08/07/2021, 17:18:12
+##### Updated on: 09/18/2021, 19:18:26
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
