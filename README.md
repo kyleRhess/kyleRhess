@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***The opposite of love is not hate, it's indifference.
--- Elie Wiesel***
+***Good work is no done by ‘humble’ men.
+-- H. Hardy, A mathematician's apology.***
 ___
-##### Updated on: 09/18/2021, 19:18:26
+##### Updated on: 09/20/2021, 19:18:43
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
