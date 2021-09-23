@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Good work is no done by ‘humble’ men.
--- H. Hardy, A mathematician's apology.***
+***Adapting old programs to fit new machines usually means adapting new
+machines to behave like old ones.
+-- Alan J. Perlis (Epigrams in programming)***
 ___
-##### Updated on: 09/20/2021, 19:18:43
+##### Updated on: 09/22/2021, 19:05:42
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
