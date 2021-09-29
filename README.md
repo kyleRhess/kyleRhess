@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***Adapting old programs to fit new machines usually means adapting new
-machines to behave like old ones.
--- Alan J. Perlis (Epigrams in programming)***
+***The important thing is not to stop questioning.
+-- Albert Einstein***
 ___
-##### Updated on: 09/22/2021, 19:05:42
+##### Updated on: 09/28/2021, 19:08:14
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
