@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***The important thing is not to stop questioning.
--- Albert Einstein***
+***The human brain starts working the moment you are born and never stops
+until you stand up to speak in public.
+-- Anonymous***
 ___
-##### Updated on: 09/28/2021, 19:08:14
+##### Updated on: 10/02/2021, 19:14:34
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
