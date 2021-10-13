@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***I guess, when you're drunk, every woman looks beautiful and every
-language looks (like) a Lisp :)
--- Lament, #scheme@freenode.net***
+***If we wish to count lines of code, we should not regard them as *lines
+produced* but as *lines spent*.
+-- Edsger Dijkstra		***
 ___
-##### Updated on: 10/10/2021, 19:22:23
+##### Updated on: 10/12/2021, 19:05:55
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
