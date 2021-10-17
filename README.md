@@ -11,12 +11,9 @@
 
 _A random quote_
 ___
-***In OO, it's the data that is the "important" thing: you define the class
-which contains member data, and only incidentally contains code for
-manipulating the object. In FP, it's the code that's important: you
-define a function which contains code for working with the data, and
-only incidentally define what the data is.
--- almkgor, on reddit***
+***I would rather be an optimist and be wrong than a pessimist who proves
+to be right. The former sometimes wins, but never the latter.
+-- "Hoots"***
 ___
-##### Updated on: 10/14/2021, 19:07:43
+##### Updated on: 10/16/2021, 19:11:36
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
