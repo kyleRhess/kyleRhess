@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***I would rather be an optimist and be wrong than a pessimist who proves
-to be right. The former sometimes wins, but never the latter.
--- "Hoots"***
+***Two people should stay together if together they are better people than
+they would be individually.
+-- ?***
 ___
-##### Updated on: 10/16/2021, 19:11:36
+##### Updated on: 10/18/2021, 19:07:49
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
