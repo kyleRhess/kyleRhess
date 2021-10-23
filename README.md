@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***Two people should stay together if together they are better people than
-they would be individually.
--- ?***
+***Programming is the art of figuring out what you want so precisely that
+even a machine can do it.
+-- Some guy who isn't famous***
 ___
-##### Updated on: 10/18/2021, 19:07:49
+##### Updated on: 10/22/2021, 19:24:13
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
