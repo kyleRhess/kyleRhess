@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***Programming is the art of figuring out what you want so precisely that
-even a machine can do it.
--- Some guy who isn't famous***
+***In theory, there’s no difference between theory and practice. But in
+practice, there is.
+-- Albert Einstein***
 ___
-##### Updated on: 10/22/2021, 19:24:13
+##### Updated on: 10/24/2021, 19:18:59
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
