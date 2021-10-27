@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***In theory, there’s no difference between theory and practice. But in
-practice, there is.
--- Albert Einstein***
+***The definition of insanity is doing the same thing over and over again
+and expecting different results.
+-- Benjamin Franklin***
 ___
-##### Updated on: 10/24/2021, 19:18:59
+##### Updated on: 10/26/2021, 19:29:38
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
