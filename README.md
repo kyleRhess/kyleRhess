@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***The hardest part of design ... is keeping features out.
--- Donald Norman ***
+***Show, don't tell.
+-- unknown***
 ___
-##### Updated on: 10/30/2021, 19:02:47
+##### Updated on: 11/03/2021, 19:24:49
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
