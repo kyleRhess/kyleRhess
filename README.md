@@ -11,13 +11,9 @@
 
 _A random quote_
 ___
-***We control complexity by building abstractions that hide details when
-appropriate. We control complexity by establishing conventional
-interfaces that enable us to construct systems by combining standard,
-well-understood pieces in a ``mix and match'' way. We control complexity
-by establishing new languages for describing a design, each of which
-emphasizes particular aspects of the design and deemphasizes others.
--- Alan J. Perlis***
+***I guess, when you're drunk, every woman looks beautiful and every
+language looks (like) a Lisp :)
+-- Lament, #scheme@freenode.net***
 ___
-##### Updated on: 11/05/2021, 19:14:30
+##### Updated on: 11/07/2021, 18:16:31
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
