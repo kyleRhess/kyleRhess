@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***I guess, when you're drunk, every woman looks beautiful and every
-language looks (like) a Lisp :)
--- Lament, #scheme@freenode.net***
+***The greatest of all weaknesses is the fear of appearing weak.
+-- J. B. Bossuet, Politics from Holy Writ, 1709***
 ___
-##### Updated on: 11/07/2021, 18:16:31
+##### Updated on: 11/09/2021, 18:25:55
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
