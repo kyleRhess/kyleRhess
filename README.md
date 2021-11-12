@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***The greatest of all weaknesses is the fear of appearing weak.
--- J. B. Bossuet, Politics from Holy Writ, 1709***
+***The important thing is not to stop questioning.
+-- Albert Einstein***
 ___
-##### Updated on: 11/09/2021, 18:25:55
+##### Updated on: 11/11/2021, 18:18:03
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
