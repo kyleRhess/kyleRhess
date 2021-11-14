@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***The important thing is not to stop questioning.
--- Albert Einstein***
+***I feel it is everybodies obligation to reach for the best in themselves
+and use that for the interest of mankind.
+-- Corneluis (comment on 'Are you going to change the world? (Really?)')***
 ___
-##### Updated on: 11/11/2021, 18:18:03
+##### Updated on: 11/13/2021, 18:14:05
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
