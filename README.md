@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***You can recognize truth by its beauty and simplicity. When you get it
-right, it is obvious that it is right.
--- Richard Feynman***
+***Show, don't tell.
+-- unknown***
 ___
-##### Updated on: 11/17/2021, 18:15:02
+##### Updated on: 11/19/2021, 18:22:57
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
