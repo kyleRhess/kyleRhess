@@ -11,14 +11,9 @@
 
 _A random quote_
 ___
-***What I didn't understand was that the value of some new acquisition
-wasn't the difference between its retail price and what I paid for it.
-It was the value I derived from it. Stuff is an extremely illiquid
-asset. Unless you have some plan for selling that valuable thing you got
-so cheaply, what difference does it make what it's "worth?" The only way
-you're ever going to extract any value from it is to use it. And if you
-don't have any immediate use for it, you probably never will.
--- Paul Graham***
+***Do you want to sell sugared water all your life or do you want to change
+the world?
+-- Steve Jobs, to John Sculley (former Pepsi executive)***
 ___
-##### Updated on: 12/01/2021, 18:24:29
+##### Updated on: 12/03/2021, 18:01:55
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
