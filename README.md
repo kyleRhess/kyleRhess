@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***Do you want to sell sugared water all your life or do you want to change
-the world?
--- Steve Jobs, to John Sculley (former Pepsi executive)***
+***Functional programming is like describing your problem to a
+mathematician.  Imperative programming is like giving instructions to
+an idiot.
+-- arcus, #scheme on Freenode***
 ___
-##### Updated on: 12/03/2021, 18:01:55
+##### Updated on: 12/05/2021, 18:18:50
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
