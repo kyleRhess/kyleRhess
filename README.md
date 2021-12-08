@@ -11,10 +11,11 @@
 
 _A random quote_
 ___
-***Functional programming is like describing your problem to a
-mathematician.  Imperative programming is like giving instructions to
-an idiot.
--- arcus, #scheme on Freenode***
+***A guideline in the process of stepwise refinement should be the
+principle to decompose decisions as much as possible, to untangle
+aspects which are only seemingly interdependent, and to defer those
+decisions which concern details of representation as long as possible.
+-- Niklaus Wirth***
 ___
-##### Updated on: 12/05/2021, 18:18:50
+##### Updated on: 12/07/2021, 18:24:57
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
