@@ -11,11 +11,8 @@
 
 _A random quote_
 ___
-***A guideline in the process of stepwise refinement should be the
-principle to decompose decisions as much as possible, to untangle
-aspects which are only seemingly interdependent, and to defer those
-decisions which concern details of representation as long as possible.
--- Niklaus Wirth***
+***The direct pursuit of happiness is a recipe for an unhappy life.
+-- Donald Campbell***
 ___
-##### Updated on: 12/07/2021, 18:24:57
+##### Updated on: 12/09/2021, 18:09:16
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
