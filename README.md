@@ -11,8 +11,11 @@
 
 _A random quote_
 ___
-***The direct pursuit of happiness is a recipe for an unhappy life.
--- Donald Campbell***
+***Wear your best for your execution and stand dignified. Your last
+recourse against randomness is how you act — if you can’t control
+outcomes, you can control the elegance of your behaviour. You will
+always have the last word.
+-- Nassim Taleb***
 ___
-##### Updated on: 12/09/2021, 18:09:16
+##### Updated on: 12/13/2021, 18:21:12
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
