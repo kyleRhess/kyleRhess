@@ -11,11 +11,12 @@
 
 _A random quote_
 ___
-***Wear your best for your execution and stand dignified. Your last
-recourse against randomness is how you act — if you can’t control
-outcomes, you can control the elegance of your behaviour. You will
-always have the last word.
--- Nassim Taleb***
+***Well, if you talk about programming to a group of programmers who use
+the same language, they can become almost evangelistic about the
+language. They form a tight-knit community, hold to certain beliefs, and
+follow certain rules in their programming. It’s like a church with a
+programming language for a Bible.
+-- Gary Kildall (inventor of CP/M, one of the first OS for the micro).***
 ___
-##### Updated on: 12/13/2021, 18:21:12
+##### Updated on: 12/15/2021, 18:26:45
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
