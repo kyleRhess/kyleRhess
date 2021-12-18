@@ -11,12 +11,10 @@
 
 _A random quote_
 ___
-***Well, if you talk about programming to a group of programmers who use
-the same language, they can become almost evangelistic about the
-language. They form a tight-knit community, hold to certain beliefs, and
-follow certain rules in their programming. It’s like a church with a
-programming language for a Bible.
--- Gary Kildall (inventor of CP/M, one of the first OS for the micro).***
+***Students should be evaluated on how well they can achieve the goals they
+strived to achieve within a realistic context. Students need to learn to
+do things, not know things.
+-- Roger Schank, Engines for Education***
 ___
-##### Updated on: 12/15/2021, 18:26:45
+##### Updated on: 12/17/2021, 18:06:22
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
