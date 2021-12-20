@@ -11,10 +11,8 @@
 
 _A random quote_
 ___
-***Students should be evaluated on how well they can achieve the goals they
-strived to achieve within a realistic context. Students need to learn to
-do things, not know things.
--- Roger Schank, Engines for Education***
+***The opposite of love is not hate, it is indifference.
+-- Elie Wiesel***
 ___
-##### Updated on: 12/17/2021, 18:06:22
+##### Updated on: 12/19/2021, 18:09:16
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
