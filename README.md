@@ -11,8 +11,11 @@
 
 _A random quote_
 ___
-***The opposite of love is not hate, it is indifference.
--- Elie Wiesel***
+***1 - Creativity and innovation always build on the past.
+2 - The past always tries to control the creativity that builds on it.
+3 - Free societies enable the future by limiting the past.
+4 - Ours is less and less a free society.
+-- Lawrence Lessig, Free Culture.***
 ___
-##### Updated on: 12/19/2021, 18:09:16
+##### Updated on: 12/21/2021, 18:02:31
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
