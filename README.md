@@ -11,11 +11,9 @@
 
 _A random quote_
 ___
-***1 - Creativity and innovation always build on the past.
-2 - The past always tries to control the creativity that builds on it.
-3 - Free societies enable the future by limiting the past.
-4 - Ours is less and less a free society.
--- Lawrence Lessig, Free Culture.***
+***If something isn’t working, you need to look back and figure out what
+got you excited in the first place.
+-- David Gorman (ImThere.com)***
 ___
-##### Updated on: 12/21/2021, 18:02:31
+##### Updated on: 12/23/2021, 18:03:54
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
