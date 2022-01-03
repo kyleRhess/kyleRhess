@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***If something isn’t working, you need to look back and figure out what
-got you excited in the first place.
--- David Gorman (ImThere.com)***
+***Dealing with failure is easy: Work hard to improve. Success is also easy
+to handle: You've solved the wrong problem. Work hard to improve.
+-- Alan J. Perlis (Epigrams in programmi ng)***
 ___
-##### Updated on: 12/23/2021, 18:03:54
+##### Updated on: 01/02/2022, 18:22:04
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
