@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***Dealing with failure is easy: Work hard to improve. Success is also easy
-to handle: You've solved the wrong problem. Work hard to improve.
--- Alan J. Perlis (Epigrams in programmi ng)***
+***Any sufficiently advanced technology is undistinguishable from magic.
+-- Arthur C. Clarke***
 ___
-##### Updated on: 01/02/2022, 18:22:04
+##### Updated on: 01/06/2022, 18:12:49
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
