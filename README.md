@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***Any sufficiently advanced technology is undistinguishable from magic.
--- Arthur C. Clarke***
+***All non-trivial abstractions, to some degree, are leaky.
+-- Joel Spolsky (The Law of Leaky Abstractions)***
 ___
-##### Updated on: 01/06/2022, 18:12:49
+##### Updated on: 01/08/2022, 18:18:46
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
