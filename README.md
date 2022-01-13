@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***All non-trivial abstractions, to some degree, are leaky.
--- Joel Spolsky (The Law of Leaky Abstractions)***
+***To iterate is human, to recurse divine.
+-- L. Peter Deutsch***
 ___
-##### Updated on: 01/08/2022, 18:18:46
+##### Updated on: 01/12/2022, 18:26:10
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
