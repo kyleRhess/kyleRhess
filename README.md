@@ -11,8 +11,10 @@
 
 _A random quote_
 ___
-***To iterate is human, to recurse divine.
--- L. Peter Deutsch***
+***Humans aren't rational -- they rationalize. And I don't just mean "some
+of them" or "other people". I'm talking about everyone. We have a "logic
+engine" in our brains, but for the most part, it's not the one in the
+driver's seat ***
 ___
-##### Updated on: 01/12/2022, 18:26:10
+##### Updated on: 01/14/2022, 18:05:23
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
