@@ -11,10 +11,11 @@
 
 _A random quote_
 ___
-***Humans aren't rational -- they rationalize. And I don't just mean "some
-of them" or "other people". I'm talking about everyone. We have a "logic
-engine" in our brains, but for the most part, it's not the one in the
-driver's seat ***
+***We really have to get over the idea that some stuff is just worth
+knowing even if you never do anything with it. Human memories happily
+erase stuff that has no purpose, so why try to fill up children's heads
+with such stuff?
+-- Roger Schank, Engines for Education***
 ___
-##### Updated on: 01/14/2022, 18:05:23
+##### Updated on: 01/18/2022, 18:25:32
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
