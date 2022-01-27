@@ -11,11 +11,9 @@
 
 _A random quote_
 ___
-***We really have to get over the idea that some stuff is just worth
-knowing even if you never do anything with it. Human memories happily
-erase stuff that has no purpose, so why try to fill up children's heads
-with such stuff?
--- Roger Schank, Engines for Education***
+***For the things we have to learn before we can do them, we learn by doing
+them.
+-- Aristotle.***
 ___
-##### Updated on: 01/18/2022, 18:25:32
+##### Updated on: 01/26/2022, 18:28:49
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
