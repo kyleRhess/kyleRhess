@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***For the things we have to learn before we can do them, we learn by doing
-them.
--- Aristotle.***
+***Making All Software Into Tools Reduces Risk.
+-- smoothspan.com***
 ___
-##### Updated on: 01/26/2022, 18:28:49
+##### Updated on: 02/05/2022, 18:29:43
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
