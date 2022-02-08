@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***Making All Software Into Tools Reduces Risk.
--- smoothspan.com***
+***Mistakes were made.
+-- Ronald Reagan***
 ___
-##### Updated on: 02/05/2022, 18:29:43
+##### Updated on: 02/07/2022, 18:22:45
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
