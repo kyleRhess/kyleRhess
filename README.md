@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Mistakes were made.
--- Ronald Reagan***
+***Argue with idiots, and you become an idiot.
+If you compete with slaves you become a slave.
+-- Paul Graham and Norbert Weiner, respectively***
 ___
-##### Updated on: 02/07/2022, 18:22:45
+##### Updated on: 02/09/2022, 18:12:07
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
