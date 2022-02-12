@@ -11,9 +11,12 @@
 
 _A random quote_
 ___
-***Argue with idiots, and you become an idiot.
-If you compete with slaves you become a slave.
--- Paul Graham and Norbert Weiner, respectively***
+***It’s a problem if the design doesn’t let you add features at a later
+date. If you have to redo a program, the hours you spend can cause you
+to lose your competitive edge. A flexible program demonstrates the
+difference between a good designer and someone who is just getting a
+piece of code out.
+-- Gary Kildall (inventor of CP/M, one of the first OS for the micro).***
 ___
-##### Updated on: 02/09/2022, 18:12:07
+##### Updated on: 02/11/2022, 18:10:33
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
