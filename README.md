@@ -11,12 +11,8 @@
 
 _A random quote_
 ___
-***It’s a problem if the design doesn’t let you add features at a later
-date. If you have to redo a program, the hours you spend can cause you
-to lose your competitive edge. A flexible program demonstrates the
-difference between a good designer and someone who is just getting a
-piece of code out.
--- Gary Kildall (inventor of CP/M, one of the first OS for the micro).***
+***Give up control. You never really had it anyway.
+-- How to fail: 25 secrets learned through failure***
 ___
-##### Updated on: 02/11/2022, 18:10:33
+##### Updated on: 02/13/2022, 18:21:13
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
