@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***Give up control. You never really had it anyway.
--- How to fail: 25 secrets learned through failure***
+***Fools! Don't they know that tears are a woman's most effective weapon?
+-- Catwoman (The Batman TV Series, episode 83)***
 ___
-##### Updated on: 02/13/2022, 18:21:13
+##### Updated on: 02/19/2022, 18:28:28
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
