@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***Fools! Don't they know that tears are a woman's most effective weapon?
--- Catwoman (The Batman TV Series, episode 83)***
+***640K ought to be enough for anybody.
+-- Bill Gates, 1981***
 ___
-##### Updated on: 02/19/2022, 18:28:28
+##### Updated on: 02/23/2022, 18:15:12
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
