@@ -11,8 +11,12 @@
 
 _A random quote_
 ___
-***640K ought to be enough for anybody.
--- Bill Gates, 1981***
+***To do something well you have to love it. So to the extent you can
+preserve hacking as something you love, you're likely to do it well. Try
+to keep the sense of wonder you had about programming at age 14. If
+you're worried that your current job is rotting your brain, it probably
+is.
+-- Paul Graham.***
 ___
-##### Updated on: 02/23/2022, 18:15:12
+##### Updated on: 02/25/2022, 18:26:49
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
