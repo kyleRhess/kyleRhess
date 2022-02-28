@@ -11,12 +11,10 @@
 
 _A random quote_
 ___
-***To do something well you have to love it. So to the extent you can
-preserve hacking as something you love, you're likely to do it well. Try
-to keep the sense of wonder you had about programming at age 14. If
-you're worried that your current job is rotting your brain, it probably
-is.
--- Paul Graham.***
+***Programmers are in a race with the Universe to create bigger and better
+idiot-proof programs, while the Universe is trying to create bigger and
+better idiots.  So far the Universe is winning.
+-- Rich Cook***
 ___
-##### Updated on: 02/25/2022, 18:26:49
+##### Updated on: 02/27/2022, 18:14:12
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
