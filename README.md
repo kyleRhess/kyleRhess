@@ -11,10 +11,10 @@
 
 _A random quote_
 ___
-***Programmers are in a race with the Universe to create bigger and better
-idiot-proof programs, while the Universe is trying to create bigger and
-better idiots.  So far the Universe is winning.
--- Rich Cook***
+***A tail call allows a function to return the result of another function
+without leaving an entry on the stack. Tail recursion is a specific case
+of tail calling.
+-- ASPN : Python Cookbook : Explicit Tail Call***
 ___
-##### Updated on: 02/27/2022, 18:14:12
+##### Updated on: 03/05/2022, 18:04:58
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
