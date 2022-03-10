@@ -11,10 +11,9 @@
 
 _A random quote_
 ___
-***A designer knows he has arrived at perfection not when there is no
-longuer anything to add, but when there is no longuer anything to take
-away.
--- Antoine de St Exupery.***
+***But what is it good for?
+-- Engineer at the Advanced Computing Systems Division of IBM,
+commenting on the microchip, 1968***
 ___
-##### Updated on: 03/07/2022, 18:19:33
+##### Updated on: 03/09/2022, 18:26:51
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
