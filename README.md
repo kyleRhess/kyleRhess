@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***But what is it good for?
--- Engineer at the Advanced Computing Systems Division of IBM,
-commenting on the microchip, 1968***
+***The good thing about reinventing the wheel is that you get a round one.
+-- Douglas Crockford (Author of JSON and JsLint)***
 ___
-##### Updated on: 03/09/2022, 18:26:51
+##### Updated on: 03/11/2022, 18:05:02
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
