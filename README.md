@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***The good thing about reinventing the wheel is that you get a round one.
--- Douglas Crockford (Author of JSON and JsLint)***
+***Revolutions come from standing on the shoulders of giants and facing in
+a better direction.
+-- Alan Kay***
 ___
-##### Updated on: 03/11/2022, 18:05:02
+##### Updated on: 03/17/2022, 19:25:42
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
