@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***Revolutions come from standing on the shoulders of giants and facing in
-a better direction.
--- Alan Kay***
+***Lisp is a programmable programming language.
+-- John Foderaro***
 ___
-##### Updated on: 03/17/2022, 19:25:42
+##### Updated on: 03/23/2022, 19:17:00
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
