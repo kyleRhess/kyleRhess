@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Lisp is a programmable programming language.
--- John Foderaro***
+***Il y a très loin de la velléité à la volnt, de la volonté à la résolution, de la
+résolution au choix des moyens, du choix ds moyens à lapplication.
+-- Jean-François Paul de Gondi de Retz***
 ___
-##### Updated on: 03/23/2022, 19:17:00
+##### Updated on: 03/25/2022, 19:15:58
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
