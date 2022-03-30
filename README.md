@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***Il y a très loin de la velléité à la volnt, de la volonté à la résolution, de la
-résolution au choix des moyens, du choix ds moyens à lapplication.
--- Jean-François Paul de Gondi de Retz***
+***Training research shows that if you get speed now you can get quality
+later. But if you don't get speed you will never get quality in the long
+run.
+-- Philip Greenspun***
 ___
-##### Updated on: 03/25/2022, 19:15:58
+##### Updated on: 03/29/2022, 19:29:56
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
