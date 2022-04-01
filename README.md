@@ -11,10 +11,8 @@
 
 _A random quote_
 ___
-***Training research shows that if you get speed now you can get quality
-later. But if you don't get speed you will never get quality in the long
-run.
--- Philip Greenspun***
+***All non-trivial abstractions, to some degree, are leaky.
+-- Joel Spolsky (The Law of Leaky Abstractions)***
 ___
-##### Updated on: 03/29/2022, 19:29:56
+##### Updated on: 03/31/2022, 19:26:12
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
