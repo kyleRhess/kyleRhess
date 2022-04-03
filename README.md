@@ -11,8 +11,10 @@
 
 _A random quote_
 ___
-***All non-trivial abstractions, to some degree, are leaky.
--- Joel Spolsky (The Law of Leaky Abstractions)***
+***It is practically impossible to teach good programming style to students
+that have had prior exposure to BASIC.  As potential programmers, they
+are mentally mutilated beyond hope of regeneration.
+-- E. W. Dijkstra***
 ___
-##### Updated on: 03/31/2022, 19:26:12
+##### Updated on: 04/02/2022, 19:08:55
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
