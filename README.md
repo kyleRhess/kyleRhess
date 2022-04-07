@@ -11,10 +11,9 @@
 
 _A random quote_
 ___
-***It is practically impossible to teach good programming style to students
-that have had prior exposure to BASIC.  As potential programmers, they
-are mentally mutilated beyond hope of regeneration.
--- E. W. Dijkstra***
+***Measure everything you can about the product, and you'll start seeing
+patterns.
+-- Max Levchin, PayPal founder, Talk at StartupSchool2007***
 ___
-##### Updated on: 04/02/2022, 19:08:55
+##### Updated on: 04/06/2022, 19:23:22
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
