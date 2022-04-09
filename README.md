@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***Measure everything you can about the product, and you'll start seeing
-patterns.
--- Max Levchin, PayPal founder, Talk at StartupSchool2007***
+***The important thing is not to stop questioning.
+-- Albert Einstein***
 ___
-##### Updated on: 04/06/2022, 19:23:22
+##### Updated on: 04/08/2022, 19:20:42
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
