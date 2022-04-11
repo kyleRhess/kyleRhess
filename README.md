@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***The important thing is not to stop questioning.
--- Albert Einstein***
+***Functional programming is to algorithms as the ubiquitous little black
+dress is to women's fashion.
+-- Mark Tarver (of "The bipolar Lisp programmer" fame)***
 ___
-##### Updated on: 04/08/2022, 19:20:42
+##### Updated on: 04/10/2022, 19:12:23
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
