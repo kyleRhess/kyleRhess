@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***Functional programming is to algorithms as the ubiquitous little black
-dress is to women's fashion.
--- Mark Tarver (of "The bipolar Lisp programmer" fame)***
+***The Work Begins Anew, The Hope Rises Again, And The Dream Lives On.
+-- Ted Kennedy***
 ___
-##### Updated on: 04/10/2022, 19:12:23
+##### Updated on: 04/12/2022, 19:20:33
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
