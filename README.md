@@ -11,8 +11,11 @@
 
 _A random quote_
 ___
-***The Work Begins Anew, The Hope Rises Again, And The Dream Lives On.
--- Ted Kennedy***
+***Abstraction is a form of data compression: absolutely necessary, because
+human short-term memory is so small, but the critically important aspect
+of abstraction is the algorithm that gets you from the name back to the
+"uncompressed" details.
+-- Bruce Wilder (blog post comment)***
 ___
-##### Updated on: 04/12/2022, 19:20:33
+##### Updated on: 04/20/2022, 19:15:58
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
