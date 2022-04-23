@@ -11,11 +11,9 @@
 
 _A random quote_
 ___
-***Abstraction is a form of data compression: absolutely necessary, because
-human short-term memory is so small, but the critically important aspect
-of abstraction is the algorithm that gets you from the name back to the
-"uncompressed" details.
--- Bruce Wilder (blog post comment)***
+***The use of COBOL cripples the mind; its teaching should therefore be
+regarded as a criminal offense.
+-- E.W. Dijkstra***
 ___
-##### Updated on: 04/20/2022, 19:15:58
+##### Updated on: 04/22/2022, 19:24:43
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
