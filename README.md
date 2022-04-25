@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***The use of COBOL cripples the mind; its teaching should therefore be
-regarded as a criminal offense.
--- E.W. Dijkstra***
+***Show, don't tell.
+-- unknown***
 ___
-##### Updated on: 04/22/2022, 19:24:43
+##### Updated on: 04/24/2022, 19:22:17
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
