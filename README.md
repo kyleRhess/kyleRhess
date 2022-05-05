@@ -11,8 +11,14 @@
 
 _A random quote_
 ___
-***Show, don't tell.
--- unknown***
+***While I’ve always appreciated beautiful code, I share Jonathan’s concern
+about studying it too much. I think studying beauty in music and
+painting has led us to modern classical music and painting that the
+majority of us just don’t get. Beauty can be seen when it emerges, but
+isn’t something to strive for in isolation of a larger context. In the
+software world, the larger context would be the utility of the software
+to the end user.
+-- [A comment on a blog]***
 ___
-##### Updated on: 04/24/2022, 19:22:17
+##### Updated on: 05/04/2022, 19:22:13
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
