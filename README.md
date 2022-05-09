@@ -11,14 +11,9 @@
 
 _A random quote_
 ___
-***While I’ve always appreciated beautiful code, I share Jonathan’s concern
-about studying it too much. I think studying beauty in music and
-painting has led us to modern classical music and painting that the
-majority of us just don’t get. Beauty can be seen when it emerges, but
-isn’t something to strive for in isolation of a larger context. In the
-software world, the larger context would be the utility of the software
-to the end user.
--- [A comment on a blog]***
+***If I tell you I'm good, you would probably think I'm boasting. If I tell
+you I'm no good, you know I'm lying.
+-- Bruce Lee***
 ___
-##### Updated on: 05/04/2022, 19:22:13
+##### Updated on: 05/08/2022, 19:18:48
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
