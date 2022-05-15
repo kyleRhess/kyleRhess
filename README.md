@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***If I tell you I'm good, you would probably think I'm boasting. If I tell
-you I'm no good, you know I'm lying.
--- Bruce Lee***
+***You can recognize truth by its beauty and simplicity. When you get it
+right, it is obvious that it is right.
+-- Richard Feynman***
 ___
-##### Updated on: 05/08/2022, 19:18:48
+##### Updated on: 05/14/2022, 19:26:58
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
