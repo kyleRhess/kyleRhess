@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***You can recognize truth by its beauty and simplicity. When you get it
-right, it is obvious that it is right.
--- Richard Feynman***
+***It is not a lack of love, but a lack of friendship that makes unhappy marriages.
+-- Friedrich Nietzsche***
 ___
-##### Updated on: 05/14/2022, 19:26:58
+##### Updated on: 05/16/2022, 19:28:35
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
