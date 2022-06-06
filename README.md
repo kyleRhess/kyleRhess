@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***It is not a lack of love, but a lack of friendship that makes unhappy marriages.
--- Friedrich Nietzsche***
+***It's no trick for talented people to be interesting, but it's a gift to
+be interested. We want an organization filled with interested people.
+-- Randy S. Nelson (dean of Pixar University)***
 ___
-##### Updated on: 05/16/2022, 19:28:35
+##### Updated on: 06/05/2022, 19:28:16
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
