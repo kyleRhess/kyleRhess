@@ -11,23 +11,10 @@
 
 _A random quote_
 ___
-***What do Americans look for in a car? I've heard many answers when I've
-asked this question. The answers include excellent safety ratings, great
-gas mileage, handling, and cornering ability, among others. I don't
-believe any of these. That's because the first principle of the Culture
-Code is that the only effective way to understand what people truly mean
-is to ignore what they say. This is not to suggest that people
-intentionally lie or misrepresent themselves. What it means is that,
-when asked direct questions about their interests and preferences,
-people tend to give answers they believe the questioner wants to hear.
-Again, this is not because they intend to mislead. It is because people
-respond to these questions with their cortexes, the parts of their
-brains that control intelligence rather than emotion or instinct. They
-ponder a question, they process a question, and when they deliver an
-answer, it is the product of deliberation. They believe they are telling
-the truth. A lie detector would confirm this. In most cases, however,
-they aren't saying what they mean.
--- The culture code.***
+***La tactique, c'est ce que vous faites quand il y a quelque chose à
+faire; la stratégie, c'est ce que vous faites quand il n'y a rien à
+faire.
+-- Xavier Tartacover***
 ___
-##### Updated on: 06/11/2022, 19:04:44
+##### Updated on: 06/15/2022, 19:13:42
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
