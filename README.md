@@ -11,10 +11,9 @@
 
 _A random quote_
 ___
-***La tactique, c'est ce que vous faites quand il y a quelque chose à
-faire; la stratégie, c'est ce que vous faites quand il n'y a rien à
-faire.
--- Xavier Tartacover***
+***The purpose of abstraction is not to be vague, but to create a new
+semantic level in which one can be absolutely precise.
+-- Edsger Dijkstra***
 ___
-##### Updated on: 06/15/2022, 19:13:42
+##### Updated on: 06/17/2022, 19:21:24
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
