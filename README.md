@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***The purpose of abstraction is not to be vague, but to create a new
-semantic level in which one can be absolutely precise.
--- Edsger Dijkstra***
+***I’d rather write programs to write programs than write programs.
+-- Richard Sites***
 ___
-##### Updated on: 06/17/2022, 19:21:24
+##### Updated on: 06/21/2022, 19:02:40
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
