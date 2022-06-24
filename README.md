@@ -11,8 +11,10 @@
 
 _A random quote_
 ___
-***I’d rather write programs to write programs than write programs.
--- Richard Sites***
+***Simple, clear purpose and principles give rise to complex, intelligent
+behavior. Complex rules and regulations give rise to simple, stupid
+behavior.
+-- Dee Hock, Birth of the Chaordic Age***
 ___
-##### Updated on: 06/21/2022, 19:02:40
+##### Updated on: 06/23/2022, 19:11:40
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
