@@ -11,10 +11,10 @@
 
 _A random quote_
 ___
-***Simple, clear purpose and principles give rise to complex, intelligent
-behavior. Complex rules and regulations give rise to simple, stupid
-behavior.
--- Dee Hock, Birth of the Chaordic Age***
+***The president was visiting NASA headquarters and stopped to talk to a
+man who was holding a mop. “And what do you do?” he asked. The man, a
+janitor, replied, “I’m helping to put a man on the moon, sir.”
+-- The little book of leadership***
 ___
-##### Updated on: 06/23/2022, 19:11:40
+##### Updated on: 06/27/2022, 19:00:01
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
