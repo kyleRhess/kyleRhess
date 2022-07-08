@@ -11,11 +11,9 @@
 
 _A random quote_
 ___
-***Always dive down into a problem and get your hands on the deepest issue
-behind the problem. All other considerations are to dismissed as
-"engineering details"; they can be sorted out after the basic problem
-has been solved.
--- Chris Crawford***
+***Sound methodology can empower and liberate the creative mind; it cannot inflame
+or inspire the drudge.
+-- Frederick P. Brooks, No Sliver Bullet.***
 ___
-##### Updated on: 06/29/2022, 19:00:38
+##### Updated on: 07/07/2022, 19:17:12
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
