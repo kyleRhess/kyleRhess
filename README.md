@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***Sound methodology can empower and liberate the creative mind; it cannot inflame
-or inspire the drudge.
--- Frederick P. Brooks, No Sliver Bullet.***
+***Philosophy: the finding of bad reasons for what one believes by
+instinct.
+-- Brave New World (paraphrased)***
 ___
-##### Updated on: 07/07/2022, 19:17:12
+##### Updated on: 07/17/2022, 19:22:02
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
