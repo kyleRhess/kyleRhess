@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***Philosophy: the finding of bad reasons for what one believes by
-instinct.
--- Brave New World (paraphrased)***
+***New eyes have X-ray vision.  [someone that hasn't written it is more
+likely to spot the bug. "someone" can be you after a break]
+-- William S. Annis***
 ___
-##### Updated on: 07/17/2022, 19:22:02
+##### Updated on: 07/19/2022, 19:23:10
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
