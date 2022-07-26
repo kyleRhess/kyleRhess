@@ -11,9 +11,11 @@
 
 _A random quote_
 ___
-***New eyes have X-ray vision.  [someone that hasn't written it is more
-likely to spot the bug. "someone" can be you after a break]
--- William S. Annis***
+***Lisp is worth learning for the profound enlightenment experience you
+will have when you finally get it; that experience will make you a
+better programmer for the rest of your days, even if you never actually
+use Lisp itself a lot.
+-- Eric S. Raymond***
 ___
-##### Updated on: 07/19/2022, 19:23:10
+##### Updated on: 07/25/2022, 19:29:11
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
