@@ -11,11 +11,9 @@
 
 _A random quote_
 ___
-***Lisp is worth learning for the profound enlightenment experience you
-will have when you finally get it; that experience will make you a
-better programmer for the rest of your days, even if you never actually
-use Lisp itself a lot.
--- Eric S. Raymond***
+***To be yourself in a world that is constantly trying to make you something else
+is the greatest accomplishment.
+-- Ralph Waldo Emerson***
 ___
-##### Updated on: 07/25/2022, 19:29:11
+##### Updated on: 07/29/2022, 19:10:59
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
