@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***To be yourself in a world that is constantly trying to make you something else
-is the greatest accomplishment.
--- Ralph Waldo Emerson***
+***Ne te mets pas de limite, la vie se chargera de la mettre a ta place.
+-- Darryl AMEDON***
 ___
-##### Updated on: 07/29/2022, 19:10:59
+##### Updated on: 07/31/2022, 19:28:04
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
