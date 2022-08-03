@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***Ne te mets pas de limite, la vie se chargera de la mettre a ta place.
--- Darryl AMEDON***
+***The only constant in the world of hi-tech is change.
+-- Mark Ward***
 ___
-##### Updated on: 07/31/2022, 19:28:04
+##### Updated on: 08/02/2022, 19:12:07
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
