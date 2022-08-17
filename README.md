@@ -11,8 +11,10 @@
 
 _A random quote_
 ___
-***Courage is grace under pressure.
--- Ernest Hemingway***
+***A tail call allows a function to return the result of another function
+without leaving an entry on the stack. Tail recursion is a specific case
+of tail calling.
+-- ASPN : Python Cookbook : Explicit Tail Call***
 ___
-##### Updated on: 08/12/2022, 19:12:43
+##### Updated on: 08/16/2022, 19:16:10
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
