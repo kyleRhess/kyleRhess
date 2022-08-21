@@ -11,10 +11,9 @@
 
 _A random quote_
 ___
-***A tail call allows a function to return the result of another function
-without leaving an entry on the stack. Tail recursion is a specific case
-of tail calling.
--- ASPN : Python Cookbook : Explicit Tail Call***
+***The most damaging phrase in the language is, It's always been done that
+way.
+-- Rear Admiral Grace Hopper***
 ___
-##### Updated on: 08/16/2022, 19:16:10
+##### Updated on: 08/20/2022, 19:29:06
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
