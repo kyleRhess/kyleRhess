@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***The most damaging phrase in the language is, It's always been done that
-way.
--- Rear Admiral Grace Hopper***
+***La tactique, c'est ce que vous faites quand il y a quelque chose à
+faire; la stratégie, c'est ce que vous faites quand il n'y a rien à
+faire.
+-- Xavier Tartacover***
 ___
-##### Updated on: 08/20/2022, 19:29:06
+##### Updated on: 08/22/2022, 19:09:38
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
