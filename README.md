@@ -11,10 +11,11 @@
 
 _A random quote_
 ___
-***La tactique, c'est ce que vous faites quand il y a quelque chose à
-faire; la stratégie, c'est ce que vous faites quand il n'y a rien à
-faire.
--- Xavier Tartacover***
+***You will never become a Great Programmer until you acknowledge that you
+will always be a Terrible Programmer.
+You will remain a Great Programmer for only as long as you acknowledge
+that you are still a Terrible Programmer.
+-- Marc (http://kickin-the-darkness.blogspot.com/)***
 ___
-##### Updated on: 08/22/2022, 19:09:38
+##### Updated on: 08/28/2022, 19:12:06
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
