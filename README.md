@@ -11,11 +11,9 @@
 
 _A random quote_
 ___
-***You will never become a Great Programmer until you acknowledge that you
-will always be a Terrible Programmer.
-You will remain a Great Programmer for only as long as you acknowledge
-that you are still a Terrible Programmer.
--- Marc (http://kickin-the-darkness.blogspot.com/)***
+***In theory, there’s no difference between theory and practice. But in
+practice, there is.
+-- Albert Einstein***
 ___
-##### Updated on: 08/28/2022, 19:12:06
+##### Updated on: 09/03/2022, 19:14:57
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
