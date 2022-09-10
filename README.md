@@ -11,13 +11,8 @@
 
 _A random quote_
 ___
-***We control complexity by building abstractions that hide details when
-appropriate. We control complexity by establishing conventional
-interfaces that enable us to construct systems by combining standard,
-well-understood pieces in a ``mix and match'' way. We control complexity
-by establishing new languages for describing a design, each of which
-emphasizes particular aspects of the design and deemphasizes others.
--- Alan J. Perlis***
+***All creativity is an extended form of a joke.
+-- Alan Kay***
 ___
-##### Updated on: 09/05/2022, 19:25:47
+##### Updated on: 09/09/2022, 19:28:06
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
