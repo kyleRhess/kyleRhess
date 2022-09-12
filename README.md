@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***All creativity is an extended form of a joke.
--- Alan Kay***
+***C and Lisp stand at opposite ends of the spectrum; they're each great at
+what the other one sucks at.
+-- Steve Yegge, Tour de Babel.***
 ___
-##### Updated on: 09/09/2022, 19:28:06
+##### Updated on: 09/11/2022, 19:19:36
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
