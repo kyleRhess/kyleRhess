@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***C and Lisp stand at opposite ends of the spectrum; they're each great at
-what the other one sucks at.
--- Steve Yegge, Tour de Babel.***
+***In theory, there’s no difference between theory and practice. But in
+practice, there is.
+-- Albert Einstein***
 ___
-##### Updated on: 09/11/2022, 19:19:36
+##### Updated on: 09/17/2022, 19:06:48
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
