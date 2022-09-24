@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***In theory, there’s no difference between theory and practice. But in
-practice, there is.
--- Albert Einstein***
+***The best thing about a boolean is even if you are wrong, you are only
+off by a bit.
+-- Anonymous***
 ___
-##### Updated on: 09/17/2022, 19:06:48
+##### Updated on: 09/23/2022, 19:07:08
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
