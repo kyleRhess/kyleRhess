@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***The best thing about a boolean is even if you are wrong, you are only
-off by a bit.
+***The human brain starts working the moment you are born and never stops
+until you stand up to speak in public.
 -- Anonymous***
 ___
-##### Updated on: 09/23/2022, 19:07:08
+##### Updated on: 10/07/2022, 19:03:56
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
