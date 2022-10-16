@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***The human brain starts working the moment you are born and never stops
-until you stand up to speak in public.
--- Anonymous***
+***Everything that can be invented has been invented.
+-- Charles H. Duell, Commissioner, U.S. Office of Patents, 1899***
 ___
-##### Updated on: 10/07/2022, 19:03:56
+##### Updated on: 10/15/2022, 19:20:44
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
