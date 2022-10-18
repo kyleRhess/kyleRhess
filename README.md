@@ -11,8 +11,11 @@
 
 _A random quote_
 ___
-***Everything that can be invented has been invented.
--- Charles H. Duell, Commissioner, U.S. Office of Patents, 1899***
+***Remember: you are alone. Every time you can get help from someone,
+it is an opportunity: you should eagerly size it. But then, promptly
+return to normal mode: you are alone and you must be prepared to solve
+every problem yourself.
+-- Eric KEDJI***
 ___
-##### Updated on: 10/15/2022, 19:20:44
+##### Updated on: 10/17/2022, 19:20:52
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
