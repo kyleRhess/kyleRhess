@@ -11,11 +11,8 @@
 
 _A random quote_
 ___
-***Remember: you are alone. Every time you can get help from someone,
-it is an opportunity: you should eagerly size it. But then, promptly
-return to normal mode: you are alone and you must be prepared to solve
-every problem yourself.
--- Eric KEDJI***
+***Lisp is a programmable programming language.
+-- John Foderaro***
 ___
-##### Updated on: 10/17/2022, 19:20:52
+##### Updated on: 10/21/2022, 19:13:12
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
