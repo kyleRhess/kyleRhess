@@ -11,8 +11,7 @@
 
 _A random quote_
 ___
-***Lisp is a programmable programming language.
--- John Foderaro***
+***A society that puts equality -- in the sense of equality of outcome ***
 ___
-##### Updated on: 10/21/2022, 19:13:12
+##### Updated on: 10/29/2022, 19:16:00
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
