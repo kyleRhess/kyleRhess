@@ -11,7 +11,9 @@
 
 _A random quote_
 ___
-***A society that puts equality -- in the sense of equality of outcome ***
+***Acknowledging the negative doesn't mean sniveling [whining, complaining]; it
+means facing the truth and then moving on.
+-- George Leonard, Mastery.***
 ___
-##### Updated on: 10/29/2022, 19:16:00
+##### Updated on: 11/02/2022, 19:26:51
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
