@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***Acknowledging the negative doesn't mean sniveling [whining, complaining]; it
-means facing the truth and then moving on.
--- George Leonard, Mastery.***
+***Rules of Optimization:
+Rule 1: Don’t do it.
+Rule 2 (for experts only): Don’t do it yet.
+-- M.A. Jackson***
 ___
-##### Updated on: 11/02/2022, 19:26:51
+##### Updated on: 11/28/2022, 18:13:32
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
