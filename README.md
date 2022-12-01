@@ -11,10 +11,8 @@
 
 _A random quote_
 ___
-***Rules of Optimization:
-Rule 1: Don’t do it.
-Rule 2 (for experts only): Don’t do it yet.
--- M.A. Jackson***
+***The hardest part of design ... is keeping features out.
+-- Donald Norman ***
 ___
-##### Updated on: 11/28/2022, 18:13:32
+##### Updated on: 11/30/2022, 18:01:58
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
