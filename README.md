@@ -11,11 +11,9 @@
 
 _A random quote_
 ___
-***That is the inevitable human response. We’re reluctant to believe that
-great discoveries are in the air. We want to believe that great
-discoveries are in our heads—and to each party in the multiple the
-presence of the other party is invariably cause for suspicion.
--- Malcolm Gladwell, Who says big ideas are rare? ***
+***When your enemy is making a very serious mistake, don't be impolite and
+disturb him.
+-- Napoleon Bonaparte (allegedly)***
 ___
-##### Updated on: 12/04/2022, 18:25:08
+##### Updated on: 12/10/2022, 18:13:02
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
