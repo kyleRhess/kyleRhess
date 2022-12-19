@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***When your enemy is making a very serious mistake, don't be impolite and
-disturb him.
--- Napoleon Bonaparte (allegedly)***
+***No problem should ever have to be solved twice.
+-- Eric S. Raymond, How to become a hacker***
 ___
-##### Updated on: 12/10/2022, 18:13:02
+##### Updated on: 12/18/2022, 18:06:11
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
