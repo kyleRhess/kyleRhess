@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***No problem should ever have to be solved twice.
--- Eric S. Raymond, How to become a hacker***
+***If you choose not to decide, you still have made a choice.
+-- Rush (Freewill)***
 ___
-##### Updated on: 12/18/2022, 18:06:11
+##### Updated on: 01/09/2023, 18:21:46
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
