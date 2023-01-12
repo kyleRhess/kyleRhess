@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***If you choose not to decide, you still have made a choice.
--- Rush (Freewill)***
+***Dont give users the opportunity to lock themselves.
+-- unknown***
 ___
-##### Updated on: 01/09/2023, 18:21:46
+##### Updated on: 01/11/2023, 18:28:04
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
