@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Dont give users the opportunity to lock themselves.
--- unknown***
+***A non negative binary integer value x is a power of 2 iff (x & (x-1)) is
+0 using 2's complement arithmetic.
+-- [fact]***
 ___
-##### Updated on: 01/11/2023, 18:28:04
+##### Updated on: 01/15/2023, 18:04:39
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
