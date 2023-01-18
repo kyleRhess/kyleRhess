@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***A non negative binary integer value x is a power of 2 iff (x & (x-1)) is
-0 using 2's complement arithmetic.
--- [fact]***
+***The definition of insanity is doing the same thing over and over again
+and expecting different results.
+-- Benjamin Franklin***
 ___
-##### Updated on: 01/15/2023, 18:04:39
+##### Updated on: 01/17/2023, 18:19:49
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
