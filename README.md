@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***The definition of insanity is doing the same thing over and over again
-and expecting different results.
--- Benjamin Franklin***
+***The hardest part of design ... is keeping features out.
+-- Donald Norman ***
 ___
-##### Updated on: 01/17/2023, 18:19:49
+##### Updated on: 01/23/2023, 18:02:52
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
