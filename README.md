@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***The hardest part of design ... is keeping features out.
--- Donald Norman ***
+***Many of life's failures are people who did not realize how close they
+were to success when they gave up.
+-- Thomas Edison***
 ___
-##### Updated on: 01/23/2023, 18:02:52
+##### Updated on: 01/29/2023, 18:09:15
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
