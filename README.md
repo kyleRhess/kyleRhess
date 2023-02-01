@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***Many of life's failures are people who did not realize how close they
-were to success when they gave up.
--- Thomas Edison***
+***Resume writing is just like dating, or applying for a bank loan, in that
+nobody wants you if you're desperate.
+-- Steve Yegge.***
 ___
-##### Updated on: 01/29/2023, 18:09:15
+##### Updated on: 01/31/2023, 18:06:29
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
