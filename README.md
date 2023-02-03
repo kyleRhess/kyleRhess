@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***Resume writing is just like dating, or applying for a bank loan, in that
-nobody wants you if you're desperate.
--- Steve Yegge.***
+***Code is poetry.
+-- wordpress.org***
 ___
-##### Updated on: 01/31/2023, 18:06:29
+##### Updated on: 02/02/2023, 18:02:22
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
