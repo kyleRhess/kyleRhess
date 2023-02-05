@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***Code is poetry.
--- wordpress.org***
+***Whatever is worth doing at all, is worth doing well.
+-- Earl of Chesterfield***
 ___
-##### Updated on: 02/02/2023, 18:02:22
+##### Updated on: 02/04/2023, 18:10:11
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
