@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***As builders and creators finding the perfect solution should not be our
-main goal. We should find the perfect problem.
--- Isaac (blog comment)***
+***Don't have good ideas if you aren't willing to be responsible for them.
+-- Alan Perlis***
 ___
-##### Updated on: 02/12/2023, 18:24:11
+##### Updated on: 02/14/2023, 18:29:14
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
