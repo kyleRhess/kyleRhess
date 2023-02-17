@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Don't have good ideas if you aren't willing to be responsible for them.
--- Alan Perlis***
+***Java and C++ make you think that the new ideas are like the old ones.
+Java is the most distressing thing to hit computing since MS-DOS.
+-- Alan Kay***
 ___
-##### Updated on: 02/14/2023, 18:29:14
+##### Updated on: 02/16/2023, 18:16:45
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
