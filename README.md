@@ -11,10 +11,9 @@
 
 _A random quote_
 ___
-***Students should be evaluated on how well they can achieve the goals they
-strived to achieve within a realistic context. Students need to learn to
-do things, not know things.
--- Roger Schank, Engines for Education***
+***You can recognize truth by its beauty and simplicity. When you get it
+right, it is obvious that it is right.
+-- Richard Feynman***
 ___
-##### Updated on: 02/20/2023, 18:29:24
+##### Updated on: 02/22/2023, 18:20:01
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
