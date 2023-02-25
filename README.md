@@ -11,9 +11,11 @@
 
 _A random quote_
 ___
-***You can recognize truth by its beauty and simplicity. When you get it
-right, it is obvious that it is right.
--- Richard Feynman***
+***[Innovation] comes from saying no to 1,000 things to make sure we don’t
+get on the wrong track or try to do too much. We’re always thinking
+about new markets we could enter, but it’s only by saying no that you
+can concentrate on the things that are really important.
+-- Steve Jobs***
 ___
-##### Updated on: 02/22/2023, 18:20:01
+##### Updated on: 02/24/2023, 18:17:44
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
