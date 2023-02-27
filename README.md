@@ -11,11 +11,9 @@
 
 _A random quote_
 ___
-***[Innovation] comes from saying no to 1,000 things to make sure we don’t
-get on the wrong track or try to do too much. We’re always thinking
-about new markets we could enter, but it’s only by saying no that you
-can concentrate on the things that are really important.
--- Steve Jobs***
+***If you don't fail at least 90 percent of the time, you're not aiming
+high enough.
+-- Alan Kay***
 ___
-##### Updated on: 02/24/2023, 18:17:44
+##### Updated on: 02/26/2023, 18:01:16
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
