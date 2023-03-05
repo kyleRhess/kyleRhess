@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***The job of a leader today is not to create followers. It’s to create
-more leaders.
--- Ralph Nader***
+***C++ is like teenage sex: Everybody is talking about it all the time,
+only few are really doing it.
+-- unknown***
 ___
-##### Updated on: 03/02/2023, 18:04:23
+##### Updated on: 03/04/2023, 18:07:28
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
