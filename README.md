@@ -11,9 +11,13 @@
 
 _A random quote_
 ___
-***C++ is like teenage sex: Everybody is talking about it all the time,
-only few are really doing it.
--- unknown***
+***Vigorous writing is concise. A sentence should contain no unnecessary
+words, a paragraph no unnecessary sentences, for the same reason that a
+drawing should have no unnecessary lines and a machine no unnecessary
+parts. This requires not that the writer make all sentences short or
+avoid all detail and treat subjects only in outline, but that every word
+tell.
+-- William Strunk, Jr. (The Elements of Style)***
 ___
-##### Updated on: 03/04/2023, 18:07:28
+##### Updated on: 03/06/2023, 18:19:45
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
