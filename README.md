@@ -11,13 +11,11 @@
 
 _A random quote_
 ___
-***Vigorous writing is concise. A sentence should contain no unnecessary
-words, a paragraph no unnecessary sentences, for the same reason that a
-drawing should have no unnecessary lines and a machine no unnecessary
-parts. This requires not that the writer make all sentences short or
-avoid all detail and treat subjects only in outline, but that every word
-tell.
--- William Strunk, Jr. (The Elements of Style)***
+***We really have to get over the idea that some stuff is just worth
+knowing even if you never do anything with it. Human memories happily
+erase stuff that has no purpose, so why try to fill up children's heads
+with such stuff?
+-- Roger Schank, Engines for Education***
 ___
-##### Updated on: 03/06/2023, 18:19:45
+##### Updated on: 03/08/2023, 18:16:03
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
