@@ -11,11 +11,22 @@
 
 _A random quote_
 ___
-***We really have to get over the idea that some stuff is just worth
-knowing even if you never do anything with it. Human memories happily
-erase stuff that has no purpose, so why try to fill up children's heads
-with such stuff?
--- Roger Schank, Engines for Education***
+***The venerable master Qc Na was walking with his student, Anton.  Hoping to
+prompt the master into a discussion, Anton said "Master, I have heard that
+objects are a very good thing - is this true?"  Qc Na looked pityingly at
+his student and replied, "Foolish pupil - objects are merely a poor man's
+closures."
+    Chastised, Anton took his leave from his master and returned to his cell,
+intent on studying closures.  He carefully read the entire "Lambda: The
+Ultimate..." series of papers and its cousins, and implemented a small
+Scheme interpreter with a closure-based object system.  He learned much, and
+looked forward to informing his master of his progress.
+    On his next walk with Qc Na, Anton attempted to impress his master by
+saying "Master, I have diligently studied the matter, and now understand
+that objects are truly a poor man's closures."  Qc Na responded by hitting
+Anton with his stick, saying "When will you learn? Closures are a poor man's
+object."  At that moment, Anton became enlightened.
+-- Anton van Straaten (Na = Norman Adams, Qa = Christian Queinnec)***
 ___
-##### Updated on: 03/08/2023, 18:16:03
+##### Updated on: 03/10/2023, 18:29:17
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
