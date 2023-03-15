@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***Good ideas are out there for anyone with the wit and the will to find
-them.
--- Malcolm Gladwell, Who says big ideas are rare?***
+***A journey of a thousand miles must begin with a single step.
+-- Lao­Tzu***
 ___
-##### Updated on: 03/12/2023, 19:03:27
+##### Updated on: 03/14/2023, 19:23:53
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
