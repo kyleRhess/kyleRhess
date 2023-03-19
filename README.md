@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***A journey of a thousand miles must begin with a single step.
--- Lao­Tzu***
+***Ils ne sont pas forts parce qu'ils sont forts. Ils sont forts parce que
+nous sommes faibles.
+-- Ragala Khalid***
 ___
-##### Updated on: 03/14/2023, 19:23:53
+##### Updated on: 03/18/2023, 19:29:21
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
