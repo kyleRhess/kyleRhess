@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***The problem is that Microsoft just has no taste. And I don't mean that
-in a small way, I mean that in a big way.
--- Steve Jobs***
+***Simple things should be simple. Complex things should be possible.
+-- Alan Kay***
 ___
-##### Updated on: 03/22/2023, 19:21:31
+##### Updated on: 03/24/2023, 19:24:46
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
