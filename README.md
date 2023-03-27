@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Simple things should be simple. Complex things should be possible.
--- Alan Kay***
+***The only problems we can really solve in a satisfactory manner are those
+that finally admit a nicely factored solution.
+-- E. W. Dijkstra, The humble programmer***
 ___
-##### Updated on: 03/24/2023, 19:24:46
+##### Updated on: 03/26/2023, 19:28:03
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
