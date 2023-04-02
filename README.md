@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***The only problems we can really solve in a satisfactory manner are those
-that finally admit a nicely factored solution.
--- E. W. Dijkstra, The humble programmer***
+***As builders and creators finding the perfect solution should not be our
+main goal. We should find the perfect problem.
+-- Isaac (blog comment)***
 ___
-##### Updated on: 03/26/2023, 19:28:03
+##### Updated on: 04/01/2023, 19:21:02
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
