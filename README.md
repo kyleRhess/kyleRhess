@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***As builders and creators finding the perfect solution should not be our
-main goal. We should find the perfect problem.
--- Isaac (blog comment)***
+***Should array indices start at 0 or 1?  My compromise of 0.5 was rejected
+without, I thought, proper consideration.
+-- Stan Kelly-Bootle***
 ___
-##### Updated on: 04/01/2023, 19:21:02
+##### Updated on: 04/03/2023, 19:14:59
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
