@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***The trouble with the world is that the stupid are always cocksure and
-the intelligent are always filled with doubt.
--- Bertrand Russell***
+***It is practically impossible to teach good programming to students that
+have had a prior exposure to BASIC: as potential programmers they are
+mentally mutilated beyond hope of regeneration.
+-- Edsger Dijkstra***
 ___
-##### Updated on: 04/09/2023, 19:25:51
+##### Updated on: 04/13/2023, 19:02:08
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
