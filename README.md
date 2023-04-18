@@ -11,10 +11,7 @@
 
 _A random quote_
 ___
-***It is practically impossible to teach good programming to students that
-have had a prior exposure to BASIC: as potential programmers they are
-mentally mutilated beyond hope of regeneration.
--- Edsger Dijkstra***
+***Simplicity takes effort-- genius, even.***
 ___
-##### Updated on: 04/13/2023, 19:02:08
+##### Updated on: 04/17/2023, 19:12:51
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
