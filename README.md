@@ -11,7 +11,8 @@
 
 _A random quote_
 ___
-***Simplicity takes effort-- genius, even.***
+***Ce n’est que par les beaux sentiments qu’on parvient à la fortune !
+-- Charles Baudelaire, Conseils aux jeunes littérateurs.***
 ___
-##### Updated on: 04/17/2023, 19:12:51
+##### Updated on: 05/07/2023, 19:16:48
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
