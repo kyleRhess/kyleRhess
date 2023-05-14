@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***The best thing about a boolean is even if you are wrong, you are only
-off by a bit.
--- Anonymous***
+***Opportunities that present themselves to you are the consequence -- at
+least partially ***
 ___
-##### Updated on: 05/11/2023, 19:19:32
+##### Updated on: 05/13/2023, 19:22:23
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
