@@ -11,8 +11,11 @@
 
 _A random quote_
 ___
-***Opportunities that present themselves to you are the consequence -- at
-least partially ***
+***That is the inevitable human response. We’re reluctant to believe that
+great discoveries are in the air. We want to believe that great
+discoveries are in our heads—and to each party in the multiple the
+presence of the other party is invariably cause for suspicion.
+-- Malcolm Gladwell, Who says big ideas are rare? ***
 ___
-##### Updated on: 05/13/2023, 19:22:23
+##### Updated on: 05/15/2023, 19:02:15
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
