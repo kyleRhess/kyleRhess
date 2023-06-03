@@ -11,11 +11,8 @@
 
 _A random quote_
 ___
-***That is the inevitable human response. We’re reluctant to believe that
-great discoveries are in the air. We want to believe that great
-discoveries are in our heads—and to each party in the multiple the
-presence of the other party is invariably cause for suspicion.
--- Malcolm Gladwell, Who says big ideas are rare? ***
+***Normality is the route to nowhere.
+-- Ridderstrale & Nordstorm, Funky Business***
 ___
-##### Updated on: 05/15/2023, 19:02:15
+##### Updated on: 06/02/2023, 19:14:58
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
