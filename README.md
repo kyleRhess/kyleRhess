@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Normality is the route to nowhere.
--- Ridderstrale & Nordstorm, Funky Business***
+***If debugging is the process of removing bugs, then programming must be
+the process of putting them in.
+-- Edsger W. Dijkstra***
 ___
-##### Updated on: 06/02/2023, 19:14:58
+##### Updated on: 06/04/2023, 19:00:14
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
