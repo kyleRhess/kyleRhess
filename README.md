@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***If debugging is the process of removing bugs, then programming must be
-the process of putting them in.
--- Edsger W. Dijkstra***
+***Keep away from people who try to belittle your ambitions. Small people
+always do that, but the really great make you feel that you, too, can
+become great.
+-- Mark Twain***
 ___
-##### Updated on: 06/04/2023, 19:00:14
+##### Updated on: 06/06/2023, 19:06:52
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
