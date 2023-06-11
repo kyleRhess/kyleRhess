@@ -11,11 +11,10 @@
 
 _A random quote_
 ___
-***So the mere constraint of staying in regular contact with us will push
-you to make things happen, because otherwise you'll be embarrassed to
-tell us that you haven't done anything new since the last time we
-talked.
--- Paul Graham (a talk at Y Combinator, for startup creators).***
+***Students should be evaluated on how well they can achieve the goals they
+strived to achieve within a realistic context. Students need to learn to
+do things, not know things.
+-- Roger Schank, Engines for Education***
 ___
-##### Updated on: 06/08/2023, 19:05:36
+##### Updated on: 06/10/2023, 19:13:41
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
