@@ -11,10 +11,10 @@
 
 _A random quote_
 ___
-***Students should be evaluated on how well they can achieve the goals they
-strived to achieve within a realistic context. Students need to learn to
-do things, not know things.
--- Roger Schank, Engines for Education***
+***A great lathe operator commands several times the wage of an average
+lathe operator, but a great writer of software code is worth 10,000
+times the price of an average software writer.
+-- Bill Gates***
 ___
-##### Updated on: 06/10/2023, 19:13:41
+##### Updated on: 06/12/2023, 19:00:40
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
