@@ -11,10 +11,9 @@
 
 _A random quote_
 ___
-***A great lathe operator commands several times the wage of an average
-lathe operator, but a great writer of software code is worth 10,000
-times the price of an average software writer.
--- Bill Gates***
+***But what is it good for?
+-- Engineer at the Advanced Computing Systems Division of IBM,
+commenting on the microchip, 1968***
 ___
-##### Updated on: 06/12/2023, 19:00:40
+##### Updated on: 06/14/2023, 19:10:51
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
