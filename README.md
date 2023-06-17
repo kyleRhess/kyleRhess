@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***But what is it good for?
--- Engineer at the Advanced Computing Systems Division of IBM,
-commenting on the microchip, 1968***
+***Be the change you want to see in the world.
+-- Mahatma Gandhi***
 ___
-##### Updated on: 06/14/2023, 19:10:51
+##### Updated on: 06/16/2023, 19:10:23
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
