@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***Be the change you want to see in the world.
--- Mahatma Gandhi***
+***Dont give users the opportunity to lock themselves.
+-- unknown***
 ___
-##### Updated on: 06/18/2023, 19:08:26
+##### Updated on: 06/20/2023, 19:02:18
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
