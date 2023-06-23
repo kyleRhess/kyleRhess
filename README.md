@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***Dont give users the opportunity to lock themselves.
--- unknown***
+***Lisp is a programmable programming language.
+-- John Foderaro***
 ___
-##### Updated on: 06/20/2023, 19:02:18
+##### Updated on: 06/22/2023, 19:16:15
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
