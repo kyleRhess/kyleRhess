@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***Lisp is a programmable programming language.
--- John Foderaro***
+***Simplicity means the achievement of maximum effect with minimum means.
+-- Dr. Koichi Kawana***
 ___
-##### Updated on: 06/22/2023, 19:16:15
+##### Updated on: 07/04/2023, 19:16:02
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
