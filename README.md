@@ -11,10 +11,11 @@
 
 _A random quote_
 ___
-***Students should be evaluated on how well they can achieve the goals they
-strived to achieve within a realistic context. Students need to learn to
-do things, not know things.
--- Roger Schank, Engines for Education***
+***The best programmers are not marginally better than merely good ones.
+They are an order-of-magnitude better, measured by whatever standard:
+conceptual creativity, speed, ingenuity of design, or problem-solving
+ability.
+-- Randall E. Stross***
 ___
-##### Updated on: 07/06/2023, 19:18:43
+##### Updated on: 07/08/2023, 19:06:27
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
