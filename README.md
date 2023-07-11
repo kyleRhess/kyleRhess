@@ -11,11 +11,9 @@
 
 _A random quote_
 ___
-***The best programmers are not marginally better than merely good ones.
-They are an order-of-magnitude better, measured by whatever standard:
-conceptual creativity, speed, ingenuity of design, or problem-solving
-ability.
--- Randall E. Stross***
+***The definition of insanity is doing the same thing over and over again
+and expecting different results.
+-- Benjamin Franklin***
 ___
-##### Updated on: 07/08/2023, 19:06:27
+##### Updated on: 07/10/2023, 19:10:22
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
