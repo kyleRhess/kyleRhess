@@ -11,9 +11,13 @@
 
 _A random quote_
 ___
-***The definition of insanity is doing the same thing over and over again
-and expecting different results.
--- Benjamin Franklin***
+***My dream is that people adopt it on its own merits. We're not trying to
+bend Ruby on Rails to fit the enterprise, we're encouraging enterprises
+to bend to Ruby on Rails. Come if you like it, stay away if you don't.
+We're not going head over heels to accommodate the enterprise or to lure
+them away from Java. That's how you end up with Java, if you start
+bending to special interest groups.
+-- David Heinemeier Hansson (Ruby On Rails' creator)***
 ___
-##### Updated on: 07/10/2023, 19:10:22
+##### Updated on: 07/12/2023, 19:29:42
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
