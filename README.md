@@ -11,13 +11,10 @@
 
 _A random quote_
 ___
-***My dream is that people adopt it on its own merits. We're not trying to
-bend Ruby on Rails to fit the enterprise, we're encouraging enterprises
-to bend to Ruby on Rails. Come if you like it, stay away if you don't.
-We're not going head over heels to accommodate the enterprise or to lure
-them away from Java. That's how you end up with Java, if you start
-bending to special interest groups.
--- David Heinemeier Hansson (Ruby On Rails' creator)***
+***Students should be evaluated on how well they can achieve the goals they
+strived to achieve within a realistic context. Students need to learn to
+do things, not know things.
+-- Roger Schank, Engines for Education***
 ___
-##### Updated on: 07/12/2023, 19:29:42
+##### Updated on: 07/14/2023, 19:08:31
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
