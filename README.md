@@ -11,10 +11,8 @@
 
 _A random quote_
 ___
-***Students should be evaluated on how well they can achieve the goals they
-strived to achieve within a realistic context. Students need to learn to
-do things, not know things.
--- Roger Schank, Engines for Education***
+***Courage is grace under pressure.
+-- Ernest Hemingway***
 ___
-##### Updated on: 07/14/2023, 19:08:31
+##### Updated on: 07/16/2023, 19:06:01
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
