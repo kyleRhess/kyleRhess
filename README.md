@@ -11,8 +11,14 @@
 
 _A random quote_
 ___
-***Courage is grace under pressure.
--- Ernest Hemingway***
+***Sometimes a man with too broad a perspective reveals himself as having
+no real perspective at all. A man who tries too hard to see every side
+may be a man who is trying to avoid choosing any side. A man who tries
+too hard to seek a deeper truth may be trying to hide from the truth he
+already knows.  That is not a sign of intellectual sophistication and
+"great thinking". It is a demonstration of moral degeneracy and
+cowardice.
+-- Steven Den Beste***
 ___
-##### Updated on: 07/16/2023, 19:06:01
+##### Updated on: 07/18/2023, 19:12:10
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
