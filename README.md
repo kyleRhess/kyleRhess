@@ -11,14 +11,8 @@
 
 _A random quote_
 ___
-***Sometimes a man with too broad a perspective reveals himself as having
-no real perspective at all. A man who tries too hard to see every side
-may be a man who is trying to avoid choosing any side. A man who tries
-too hard to seek a deeper truth may be trying to hide from the truth he
-already knows.  That is not a sign of intellectual sophistication and
-"great thinking". It is a demonstration of moral degeneracy and
-cowardice.
--- Steven Den Beste***
+***Talkers are no good doers.
+-- William Shakespeare, "Henry VI"***
 ___
-##### Updated on: 07/18/2023, 19:12:10
+##### Updated on: 07/20/2023, 19:24:40
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
