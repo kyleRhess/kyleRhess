@@ -11,14 +11,9 @@
 
 _A random quote_
 ___
-***What I didn't understand was that the value of some new acquisition
-wasn't the difference between its retail price and what I paid for it.
-It was the value I derived from it. Stuff is an extremely illiquid
-asset. Unless you have some plan for selling that valuable thing you got
-so cheaply, what difference does it make what it's "worth?" The only way
-you're ever going to extract any value from it is to use it. And if you
-don't have any immediate use for it, you probably never will.
--- Paul Graham***
+***The great dividing line between success and failure can be expressed in
+five words: "I did not have time."
+-- WestHost weekly newsletter 14 Feb 2003***
 ___
-##### Updated on: 07/22/2023, 19:28:49
+##### Updated on: 07/24/2023, 19:20:09
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
