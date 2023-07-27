@@ -11,9 +11,11 @@
 
 _A random quote_
 ___
-***The great dividing line between success and failure can be expressed in
-five words: "I did not have time."
--- WestHost weekly newsletter 14 Feb 2003***
+***1 - Creativity and innovation always build on the past.
+2 - The past always tries to control the creativity that builds on it.
+3 - Free societies enable the future by limiting the past.
+4 - Ours is less and less a free society.
+-- Lawrence Lessig, Free Culture.***
 ___
-##### Updated on: 07/24/2023, 19:20:09
+##### Updated on: 07/26/2023, 19:29:05
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
