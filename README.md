@@ -11,11 +11,8 @@
 
 _A random quote_
 ___
-***1 - Creativity and innovation always build on the past.
-2 - The past always tries to control the creativity that builds on it.
-3 - Free societies enable the future by limiting the past.
-4 - Ours is less and less a free society.
--- Lawrence Lessig, Free Culture.***
+***Normality is the route to nowhere.
+-- Ridderstrale & Nordstorm, Funky Business***
 ___
-##### Updated on: 07/26/2023, 19:29:05
+##### Updated on: 07/28/2023, 19:02:13
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
