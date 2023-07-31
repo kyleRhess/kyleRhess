@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Normality is the route to nowhere.
--- Ridderstrale & Nordstorm, Funky Business***
+***There are many ways to avoid success in life, but the most sure-fire
+just might be procrastination.
+-- Hara Estroff Marano.***
 ___
-##### Updated on: 07/28/2023, 19:02:13
+##### Updated on: 07/30/2023, 19:12:51
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
