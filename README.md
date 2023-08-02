@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***There are many ways to avoid success in life, but the most sure-fire
-just might be procrastination.
--- Hara Estroff Marano.***
+***Perpetual optimism is a force multiplier.
+-- Colin Powell***
 ___
-##### Updated on: 07/30/2023, 19:12:51
+##### Updated on: 08/01/2023, 19:12:12
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
