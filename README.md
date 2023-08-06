@@ -11,15 +11,9 @@
 
 _A random quote_
 ___
-***A CS professor once explained recursion as follows:
-A child couldn't sleep, so her mother told her a story about a little frog,
-    who couldn't sleep, so the frog's mother told her a story about a little bear,
-         who couldn't sleep, so the bear's mother told her a story about a little weasel...
-            who fell asleep.
-        ...and the little bear fell asleep;
-    ...and the little frog fell asleep;
-...and the child fell asleep.
--- everything2.com***
+***The greatest challenge to any thinker is stating the problem in a way
+that will allow a solution.
+-- Bertrand Russell***
 ___
-##### Updated on: 08/03/2023, 19:08:25
+##### Updated on: 08/05/2023, 19:06:33
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
