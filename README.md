@@ -11,9 +11,14 @@
 
 _A random quote_
 ___
-***The greatest challenge to any thinker is stating the problem in a way
-that will allow a solution.
--- Bertrand Russell***
+***Sometimes a man with too broad a perspective reveals himself as having
+no real perspective at all. A man who tries too hard to see every side
+may be a man who is trying to avoid choosing any side. A man who tries
+too hard to seek a deeper truth may be trying to hide from the truth he
+already knows.  That is not a sign of intellectual sophistication and
+"great thinking". It is a demonstration of moral degeneracy and
+cowardice.
+-- Steven Den Beste***
 ___
-##### Updated on: 08/05/2023, 19:06:33
+##### Updated on: 08/07/2023, 19:07:34
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
