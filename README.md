@@ -11,14 +11,11 @@
 
 _A random quote_
 ___
-***Sometimes a man with too broad a perspective reveals himself as having
-no real perspective at all. A man who tries too hard to see every side
-may be a man who is trying to avoid choosing any side. A man who tries
-too hard to seek a deeper truth may be trying to hide from the truth he
-already knows.  That is not a sign of intellectual sophistication and
-"great thinking". It is a demonstration of moral degeneracy and
-cowardice.
--- Steven Den Beste***
+***A guideline in the process of stepwise refinement should be the
+principle to decompose decisions as much as possible, to untangle
+aspects which are only seemingly interdependent, and to defer those
+decisions which concern details of representation as long as possible.
+-- Niklaus Wirth***
 ___
-##### Updated on: 08/07/2023, 19:07:34
+##### Updated on: 08/09/2023, 19:09:53
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
