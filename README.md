@@ -11,11 +11,9 @@
 
 _A random quote_
 ___
-***A guideline in the process of stepwise refinement should be the
-principle to decompose decisions as much as possible, to untangle
-aspects which are only seemingly interdependent, and to defer those
-decisions which concern details of representation as long as possible.
--- Niklaus Wirth***
+***Many of life's failures are people who did not realize how close they
+were to success when they gave up.
+-- Thomas Edison***
 ___
-##### Updated on: 08/09/2023, 19:09:53
+##### Updated on: 08/11/2023, 19:13:13
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
