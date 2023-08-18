@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***What is truth?
--- Pontius Pilate***
+***Linux is only free if your time has no value.
+-- Jamie Zawinski***
 ___
-##### Updated on: 08/15/2023, 19:14:51
+##### Updated on: 08/17/2023, 19:08:30
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
