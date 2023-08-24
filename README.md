@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***The art of getting someone else to do something you want done because he
-wants to do it [Leadership].
--- Dwight D. Enseinhover.***
+***Pay attention to opportunity cost at all times. Doing one thing means
+not doing other things. This is a form of risk that is very easy to
+ignore, to your detriment.
+-- Marc Andreessen (http://blog.pmarca.com/)***
 ___
-##### Updated on: 08/21/2023, 19:14:29
+##### Updated on: 08/23/2023, 19:11:31
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
