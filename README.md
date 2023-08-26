@@ -11,10 +11,8 @@
 
 _A random quote_
 ___
-***Pay attention to opportunity cost at all times. Doing one thing means
-not doing other things. This is a form of risk that is very easy to
-ignore, to your detriment.
--- Marc Andreessen (http://blog.pmarca.com/)***
+***No problem should ever have to be solved twice.
+-- Eric S. Raymond, How to become a hacker***
 ___
-##### Updated on: 08/23/2023, 19:11:31
+##### Updated on: 08/25/2023, 19:22:25
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
