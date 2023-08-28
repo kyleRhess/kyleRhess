@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***No problem should ever have to be solved twice.
--- Eric S. Raymond, How to become a hacker***
+***Only two things are infinite, the universe and human stupidity. And I'm not so
+sure about the former.
+-- Albert Einstein***
 ___
-##### Updated on: 08/25/2023, 19:22:25
+##### Updated on: 08/27/2023, 19:20:05
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
