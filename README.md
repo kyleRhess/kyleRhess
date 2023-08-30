@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***Only two things are infinite, the universe and human stupidity. And I'm not so
-sure about the former.
--- Albert Einstein***
+***If you don't fail at least 90 percent of the time, you're not aiming
+high enough.
+-- Alan Kay***
 ___
-##### Updated on: 08/27/2023, 19:20:05
+##### Updated on: 08/29/2023, 19:13:39
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
