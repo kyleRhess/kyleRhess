@@ -11,9 +11,11 @@
 
 _A random quote_
 ___
-***If you don't fail at least 90 percent of the time, you're not aiming
-high enough.
--- Alan Kay***
+***We really have to get over the idea that some stuff is just worth
+knowing even if you never do anything with it. Human memories happily
+erase stuff that has no purpose, so why try to fill up children's heads
+with such stuff?
+-- Roger Schank, Engines for Education***
 ___
-##### Updated on: 08/29/2023, 19:13:39
+##### Updated on: 08/31/2023, 19:26:34
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
