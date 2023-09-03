@@ -11,11 +11,9 @@
 
 _A random quote_
 ___
-***We really have to get over the idea that some stuff is just worth
-knowing even if you never do anything with it. Human memories happily
-erase stuff that has no purpose, so why try to fill up children's heads
-with such stuff?
--- Roger Schank, Engines for Education***
+***The programmer must seek both perfection of part and adequacy of
+collection.
+-- Alan J. Perlis***
 ___
-##### Updated on: 08/31/2023, 19:26:34
+##### Updated on: 09/02/2023, 19:14:48
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
