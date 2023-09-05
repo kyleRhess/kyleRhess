@@ -11,9 +11,12 @@
 
 _A random quote_
 ___
-***The programmer must seek both perfection of part and adequacy of
-collection.
--- Alan J. Perlis***
+***Well then. How could you possibly live without automated refactoring
+tools? How else could you coordinate the caterpillar-like motions of all
+Java’s identical tiny legs, its thousands of similar parts?
+I’ll tell you how:
+Ruby is a butterfly.
+-- Stevey, Refactoring Trilogy, Part 1.***
 ___
-##### Updated on: 09/02/2023, 19:14:48
+##### Updated on: 09/04/2023, 19:03:07
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
