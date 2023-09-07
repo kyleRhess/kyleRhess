@@ -11,12 +11,8 @@
 
 _A random quote_
 ___
-***Well then. How could you possibly live without automated refactoring
-tools? How else could you coordinate the caterpillar-like motions of all
-Java’s identical tiny legs, its thousands of similar parts?
-I’ll tell you how:
-Ruby is a butterfly.
--- Stevey, Refactoring Trilogy, Part 1.***
+***Je crois au flooding.
+-- Karim BAINA (en parlant du dailogue avec les administrations)***
 ___
-##### Updated on: 09/04/2023, 19:03:07
+##### Updated on: 09/06/2023, 19:00:44
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
