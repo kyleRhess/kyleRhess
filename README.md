@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Je crois au flooding.
--- Karim BAINA (en parlant du dailogue avec les administrations)***
+***Two people should stay together if together they are better people than
+they would be individually.
+-- ?***
 ___
-##### Updated on: 09/06/2023, 19:00:44
+##### Updated on: 09/08/2023, 19:06:44
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
