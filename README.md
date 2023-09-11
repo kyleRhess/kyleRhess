@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***Two people should stay together if together they are better people than
-they would be individually.
--- ?***
+***Acknowledging the negative doesn't mean sniveling [whining, complaining]; it
+means facing the truth and then moving on.
+-- George Leonard, Mastery.***
 ___
-##### Updated on: 09/08/2023, 19:06:44
+##### Updated on: 09/10/2023, 19:24:49
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
