@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***Acknowledging the negative doesn't mean sniveling [whining, complaining]; it
-means facing the truth and then moving on.
--- George Leonard, Mastery.***
+***Some may say Ruby is a bad rip-off of Lisp or Smalltalk, and I admit
+that. But it is nicer to ordinary people.
+-- Matz, LL2***
 ___
-##### Updated on: 09/10/2023, 19:24:49
+##### Updated on: 09/14/2023, 19:08:32
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
