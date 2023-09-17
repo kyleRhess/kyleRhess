@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***Some may say Ruby is a bad rip-off of Lisp or Smalltalk, and I admit
-that. But it is nicer to ordinary people.
--- Matz, LL2***
+***Nobody can make you feel inferior without your consent.
+-- Eleanor Roosevelt***
 ___
-##### Updated on: 09/14/2023, 19:08:32
+##### Updated on: 09/16/2023, 19:26:03
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
