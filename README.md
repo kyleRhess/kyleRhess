@@ -11,8 +11,8 @@
 
 _A random quote_
 ___
-***Nobody can make you feel inferior without your consent.
--- Eleanor Roosevelt***
+***Dont give users the opportunity to lock themselves.
+-- unknown***
 ___
-##### Updated on: 09/16/2023, 19:26:03
+##### Updated on: 10/02/2023, 19:27:18
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
