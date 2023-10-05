@@ -11,8 +11,15 @@
 
 _A random quote_
 ___
-***Dont give users the opportunity to lock themselves.
--- unknown***
+***Je ne vous impose aucune contrainte, aucune limite. Surprenez-moi,
+étonnez-moi, défiez-moi, défiez-vous vous-même. Vous avez le choix: vous
+pouvez rester dans l'ombre ou en sortir en étant parmis les trop rares
+exceptions à avoir réussi. L'heure est venue d'aller bien au delà de
+votre potentiel. L'heure est venue maintenant de descendre vraiment en
+vous. L'heure est venue de démontrer pourquoi vous êtes l'élite, les
+quelques élus, les rares lueurs qui offrent à cette compagnie son
+caractère exceptionnel, sa luminescence.
+-- Le PDG de NURV, dans "Anti-trust".***
 ___
-##### Updated on: 10/02/2023, 19:27:18
+##### Updated on: 10/04/2023, 19:00:58
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
