@@ -11,15 +11,15 @@
 
 _A random quote_
 ___
-***Je ne vous impose aucune contrainte, aucune limite. Surprenez-moi,
-étonnez-moi, défiez-moi, défiez-vous vous-même. Vous avez le choix: vous
-pouvez rester dans l'ombre ou en sortir en étant parmis les trop rares
-exceptions à avoir réussi. L'heure est venue d'aller bien au delà de
-votre potentiel. L'heure est venue maintenant de descendre vraiment en
-vous. L'heure est venue de démontrer pourquoi vous êtes l'élite, les
-quelques élus, les rares lueurs qui offrent à cette compagnie son
-caractère exceptionnel, sa luminescence.
--- Le PDG de NURV, dans "Anti-trust".***
+***A CS professor once explained recursion as follows:
+A child couldn't sleep, so her mother told her a story about a little frog,
+    who couldn't sleep, so the frog's mother told her a story about a little bear,
+         who couldn't sleep, so the bear's mother told her a story about a little weasel...
+            who fell asleep.
+        ...and the little bear fell asleep;
+    ...and the little frog fell asleep;
+...and the child fell asleep.
+-- everything2.com***
 ___
-##### Updated on: 10/04/2023, 19:00:58
+##### Updated on: 10/08/2023, 19:18:45
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
