@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***Premature optimization is the root of all evil (or at least most of it)
-in programming.
--- Donald Knuth***
+***Resume writing is just like dating, or applying for a bank loan, in that
+nobody wants you if you're desperate.
+-- Steve Yegge.***
 ___
-##### Updated on: 10/22/2023, 19:24:07
+##### Updated on: 10/24/2023, 19:28:16
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
