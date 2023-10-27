@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***Resume writing is just like dating, or applying for a bank loan, in that
-nobody wants you if you're desperate.
--- Steve Yegge.***
+***Photography is painting with light.
+-- Eric Hamilton***
 ___
-##### Updated on: 10/24/2023, 19:28:16
+##### Updated on: 10/26/2023, 19:12:22
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
