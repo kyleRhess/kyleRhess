@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Photography is painting with light.
--- Eric Hamilton***
+***An expert is, according to my working definition "someone who doesn't
+need to look up answers to easy questions".
+-- Eric Lippert.***
 ___
-##### Updated on: 10/26/2023, 19:12:22
+##### Updated on: 10/28/2023, 19:16:48
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
