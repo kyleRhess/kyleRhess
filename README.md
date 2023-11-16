@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***An expert is, according to my working definition "someone who doesn't
-need to look up answers to easy questions".
--- Eric Lippert.***
+***As builders and creators finding the perfect solution should not be our
+main goal. We should find the perfect problem.
+-- Isaac (blog comment)***
 ___
-##### Updated on: 10/28/2023, 19:16:48
+##### Updated on: 11/15/2023, 18:19:07
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
