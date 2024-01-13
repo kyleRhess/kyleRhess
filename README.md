@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***As builders and creators finding the perfect solution should not be our
-main goal. We should find the perfect problem.
--- Isaac (blog comment)***
+***Pay attention to opportunity cost at all times. Doing one thing means
+not doing other things. This is a form of risk that is very easy to
+ignore, to your detriment.
+-- Marc Andreessen (http://blog.pmarca.com/)***
 ___
-##### Updated on: 11/15/2023, 18:19:07
+##### Updated on: 01/12/2024, 18:01:00
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
