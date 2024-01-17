@@ -11,11 +11,13 @@
 
 _A random quote_
 ___
-***Remember: you are alone. Every time you can get help from someone,
-it is an opportunity: you should eagerly size it. But then, promptly
-return to normal mode: you are alone and you must be prepared to solve
-every problem yourself.
--- Eric KEDJI***
+***To follow the path:
+    look to the master,
+    follow the master,
+    walk with the master,
+    see through the master,
+    become the master.
+-- Modern zen Poem***
 ___
-##### Updated on: 01/14/2024, 18:16:23
+##### Updated on: 01/16/2024, 18:12:21
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
