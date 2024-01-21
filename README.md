@@ -11,13 +11,11 @@
 
 _A random quote_
 ___
-***To follow the path:
-    look to the master,
-    follow the master,
-    walk with the master,
-    see through the master,
-    become the master.
--- Modern zen Poem***
+***A person won't become proficient at something until he or she has done
+it many times. In other words., if you want someone to be really good at
+building a software system, he or she will have to have built 10 or more
+systems of that type.
+-- Philip Greenspun***
 ___
-##### Updated on: 01/16/2024, 18:12:21
+##### Updated on: 01/20/2024, 18:15:46
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
