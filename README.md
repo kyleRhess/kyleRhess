@@ -11,11 +11,11 @@
 
 _A random quote_
 ___
-***A person won't become proficient at something until he or she has done
-it many times. In other words., if you want someone to be really good at
-building a software system, he or she will have to have built 10 or more
-systems of that type.
--- Philip Greenspun***
+***Abstraction is a form of data compression: absolutely necessary, because
+human short-term memory is so small, but the critically important aspect
+of abstraction is the algorithm that gets you from the name back to the
+"uncompressed" details.
+-- Bruce Wilder (blog post comment)***
 ___
-##### Updated on: 01/20/2024, 18:15:46
+##### Updated on: 01/22/2024, 18:02:37
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
