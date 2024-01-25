@@ -11,11 +11,9 @@
 
 _A random quote_
 ___
-***Abstraction is a form of data compression: absolutely necessary, because
-human short-term memory is so small, but the critically important aspect
-of abstraction is the algorithm that gets you from the name back to the
-"uncompressed" details.
--- Bruce Wilder (blog post comment)***
+***Philosophy: the finding of bad reasons for what one believes by
+instinct.
+-- Brave New World (paraphrased)***
 ___
-##### Updated on: 01/22/2024, 18:02:37
+##### Updated on: 01/24/2024, 18:28:10
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
