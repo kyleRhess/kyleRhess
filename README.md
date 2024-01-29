@@ -11,9 +11,10 @@
 
 _A random quote_
 ___
-***Philosophy: the finding of bad reasons for what one believes by
-instinct.
--- Brave New World (paraphrased)***
+***Considering the current sad state of our computer programs, software
+development is clearly still a black art, and cannot yet be called an
+engineering discipline.
+-- Bill Clinton***
 ___
-##### Updated on: 01/24/2024, 18:28:10
+##### Updated on: 01/28/2024, 18:05:45
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
