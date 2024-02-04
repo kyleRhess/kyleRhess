@@ -11,10 +11,11 @@
 
 _A random quote_
 ___
-***Considering the current sad state of our computer programs, software
-development is clearly still a black art, and cannot yet be called an
-engineering discipline.
--- Bill Clinton***
+***A person won't become proficient at something until he or she has done
+it many times. In other words., if you want someone to be really good at
+building a software system, he or she will have to have built 10 or more
+systems of that type.
+-- Philip Greenspun***
 ___
-##### Updated on: 01/28/2024, 18:05:45
+##### Updated on: 02/03/2024, 18:07:44
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
