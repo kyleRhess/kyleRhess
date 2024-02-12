@@ -11,11 +11,9 @@
 
 _A random quote_
 ___
-***A person won't become proficient at something until he or she has done
-it many times. In other words., if you want someone to be really good at
-building a software system, he or she will have to have built 10 or more
-systems of that type.
--- Philip Greenspun***
+***It is better to be quiet and thought a fool than to open your mouth and
+remove all doubt.
+-- WikiHow***
 ___
-##### Updated on: 02/03/2024, 18:07:44
+##### Updated on: 02/11/2024, 18:17:48
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
