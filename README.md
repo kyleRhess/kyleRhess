@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***It is better to be quiet and thought a fool than to open your mouth and
-remove all doubt.
--- WikiHow***
+***If you tell the truth, you don't have to remember anything.
+-- Mark Twain***
 ___
-##### Updated on: 02/11/2024, 18:17:48
+##### Updated on: 03/02/2024, 18:10:34
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
