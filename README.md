@@ -11,10 +11,13 @@
 
 _A random quote_
 ___
-***Simple, clear purpose and principles give rise to complex, intelligent
-behavior. Complex rules and regulations give rise to simple, stupid
-behavior.
--- Dee Hock, Birth of the Chaordic Age***
+***Some people suggest that machines would be friendlier if input could be
+in a natural language. But natural language is probably the worst kind
+of input because it can be quite ambiguous. The process of retrieving
+information from the computer would be so time-consuming that you would
+be better off spending that time getting the information directly from
+an expert.
+-- Gary Kildall (inventor of CP/M, one of the first OS for the micro).***
 ___
-##### Updated on: 03/06/2024, 18:27:16
+##### Updated on: 03/08/2024, 18:16:08
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
