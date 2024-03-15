@@ -11,8 +11,9 @@
 
 _A random quote_
 ___
-***Controlling complexity is the essence of computer programming.
--- Brian Kernigan***
+***If Java had true garbage collection, most programs would delete
+themselves upon execution.
+-- Robert Sewell***
 ___
-##### Updated on: 03/10/2024, 19:21:35
+##### Updated on: 03/14/2024, 19:00:05
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
