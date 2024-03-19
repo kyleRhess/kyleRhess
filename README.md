@@ -11,9 +11,9 @@
 
 _A random quote_
 ___
-***If Java had true garbage collection, most programs would delete
-themselves upon execution.
--- Robert Sewell***
+***Having large case statements in an object-oriented language is a sure
+sign your design is flawed.
+-- [Fixing architecture flaws in Rails' ORM]***
 ___
-##### Updated on: 03/14/2024, 19:00:05
+##### Updated on: 03/18/2024, 19:25:38
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
