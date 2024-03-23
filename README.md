@@ -11,9 +11,8 @@
 
 _A random quote_
 ___
-***Having large case statements in an object-oriented language is a sure
-sign your design is flawed.
--- [Fixing architecture flaws in Rails' ORM]***
+***You can’t get to version 500 if you don’t start with a version 1.
+-- BetterExplained.com***
 ___
-##### Updated on: 03/18/2024, 19:25:38
+##### Updated on: 03/22/2024, 19:10:17
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
