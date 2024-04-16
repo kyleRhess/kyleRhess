@@ -11,14 +11,9 @@
 
 _A random quote_
 ___
-***To solve your problems you must learn new skills, adapt new thought
-patterns, and become a different person than you were before that
-problem.  God has crafted you for success. In the middle of every
-adversity lie your best opportunities. Discover it, build upon it and
-move forward in your journey to live an extraordinary life.  You owe it
-to yourself to live a great life. Don’t let negative thoughts pull you
-down. Be grateful and open to learn and grow.
--- http://secretsofstudying.com/***
+***The choice of the university is mostly important for the piece of paper
+you get at the end. The education you get depends on you.
+-- Andreas Zwinkau***
 ___
-##### Updated on: 04/13/2024, 19:28:28
+##### Updated on: 04/15/2024, 19:23:01
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
