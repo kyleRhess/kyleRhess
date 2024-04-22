@@ -11,9 +11,11 @@
 
 _A random quote_
 ___
-***The choice of the university is mostly important for the piece of paper
-you get at the end. The education you get depends on you.
--- Andreas Zwinkau***
+***Why teach drawing to accountants? Because drawing class doesn't just
+teach people to draw. It teaches them to be more observant. There's no
+company on earth that wouldn't benefit from having people become more
+observant.
+-- Randy S. Nelson (dean of Pixar University)***
 ___
-##### Updated on: 04/15/2024, 19:23:01
+##### Updated on: 04/21/2024, 19:18:04
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
