@@ -11,11 +11,11 @@
 
 _A random quote_
 ___
-***Why teach drawing to accountants? Because drawing class doesn't just
-teach people to draw. It teaches them to be more observant. There's no
-company on earth that wouldn't benefit from having people become more
-observant.
--- Randy S. Nelson (dean of Pixar University)***
+***We now come to the decisive step of mathematical abstraction: we forget
+about what the symbols stand for. ...[The mathematician] need not be
+idle; there are many operations which he may carry out with these
+symbols, without ever having to look at the things they stand for.
+-- Hermann Weyl, The Mathematical Way of Thinking***
 ___
-##### Updated on: 04/21/2024, 19:18:04
+##### Updated on: 04/23/2024, 19:15:37
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
