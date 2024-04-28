@@ -11,11 +11,8 @@
 
 _A random quote_
 ___
-***We now come to the decisive step of mathematical abstraction: we forget
-about what the symbols stand for. ...[The mathematician] need not be
-idle; there are many operations which he may carry out with these
-symbols, without ever having to look at the things they stand for.
--- Hermann Weyl, The Mathematical Way of Thinking***
+***I had to learn how to teach less, so that more could be learned.
+-- Tim Gallwey, The inner game of work***
 ___
-##### Updated on: 04/23/2024, 19:15:37
+##### Updated on: 04/27/2024, 19:15:28
 ###### Quotes from [erickedji](https://gist.github.com/erickedji/68802)
